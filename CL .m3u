@@ -1,21 +1,151 @@
 #EXTM3U
-#EXTINF:-1,CANAL 1
-http://190.69.114.153:8000/play/a02b/index.m3u8
-#EXTINF:-1,CANAL INSTITUCIONAL
-http://190.69.114.153:8000/play/a02a/index.m3u8
-#EXTINF:-1,EXPLOREMOS
-http://190.69.114.153:8000/play/a02e/index.m3u8
-#EXTINF:-1,ORIGEN CHANNEL
-http://190.69.114.153:8000/play/a028/index.m3u8
-#EXTINF:-1,RADIO NACIONAL
-http://190.69.114.153:8000/play/a02c/index.m3u8
-#EXTINF:-1,RADIONICA
-http://190.69.114.153:8000/play/a02d/index.m3u8
-#EXTINF:-1,RCN HD
-http://190.69.114.153:8000/play/a023/index.m3u8
-#EXTINF:-1,RCN HD 2
-http://190.69.114.153:8000/play/a024/index.m3u8
-#EXTINF:-1,SEÑALCOLOMBIA
-http://190.69.114.153:8000/play/a029/index.m3u8
-#EXTINF:-1,TELEPACIFICO HD
-http://190.69.114.153:8000/play/a027/index.m3u8
+#EXTINF:-1,AE Mundo
+http://179.1.68.20:8093/play/a0sp
+#EXTINF:-1,AXN
+http://179.1.68.20:8093/play/a0u8
+#EXTINF:-1,Animal Planet
+http://179.1.68.20:8093/play/a0sg
+#EXTINF:-1,CNN Espanol
+http://179.1.68.20:8093/play/a0ru
+#EXTINF:-1,Canal Caracol
+http://179.1.68.20:8093/play/a0xg
+#EXTINF:-1,Canal Claro
+http://179.1.68.20:8093/play/a0t2
+#EXTINF:-1,Canal Estrellas
+http://179.1.68.20:8093/play/a0sv
+#EXTINF:-1,Canal Institucional
+http://179.1.68.20:8093/play/a0xk
+#EXTINF:-1,Canal RCN
+http://179.1.68.20:8093/play/a0xh
+#EXTINF:-1,Canal Uno
+http://179.1.68.20:8093/play/a0xe
+#EXTINF:-1,Canal del Congreso
+http://179.1.68.20:8093/play/a0xl
+#EXTINF:-1,Capital
+http://179.1.68.20:8093/play/a0xu
+#EXTINF:-1,Cartoon Network
+http://179.1.68.20:8093/play/a0rm
+#EXTINF:-1,Cinecanal
+http://179.1.68.20:8093/play/a0rc
+#EXTINF:-1,Cinemax
+http://179.1.68.20:8093/play/a0u6
+#EXTINF:-1,City TV
+http://179.1.68.20:8093/play/a0xt
+#EXTINF:-1,Claro Cinema
+http://179.1.68.20:8093/play/a0uh
+#EXTINF:-1,Claro Sports
+http://179.1.68.20:8093/play/a0ro
+#EXTINF:-1,Discovery Channel
+http://179.1.68.20:8093/play/a0sf
+#EXTINF:-1,Discovery ID
+http://179.1.68.20:8093/play/a0t0
+#EXTINF:-1,Discovery Kids
+http://179.1.68.20:8093/play/a0rt
+#EXTINF:-1,Discovery Turbo
+http://179.1.68.20:8093/play/a0uj
+#EXTINF:-1,Disney Channel
+http://179.1.68.20:8093/play/a0se
+#EXTINF:-1,Disney Jr
+http://179.1.68.20:8093/play/a0sa
+#EXTINF:-1,E Entertainment
+http://179.1.68.20:8093/play/a0si
+#EXTINF:-1,ESPN
+http://179.1.68.20:8093/play/a0sl
+#EXTINF:-1,ESPN 2
+http://179.1.68.20:8093/play/a0sc
+#EXTINF:-1,ESPN 2 Latin
+http://179.1.68.20:8093/play/a0sk
+#EXTINF:-1,ESPN 3
+http://179.1.68.20:8093/play/a0ul
+#EXTINF:-1,ESPN CO
+http://179.1.68.20:8093/play/a0xp
+#EXTINF:-1,Enlace
+http://179.1.68.20:8093/play/a0rr
+#EXTINF:-1,Esne TV
+http://179.1.68.20:8093/play/a0uk
+#EXTINF:-1,FX
+http://179.1.68.20:8093/play/a0ua
+#EXTINF:-1,FXM
+http://179.1.68.20:8093/play/a0s0
+#EXTINF:-1,Fox Sports 1
+http://179.1.68.20:8093/play/a0ta
+#EXTINF:-1,Fox Sports 2
+http://179.1.68.20:8093/play/a0sw
+#EXTINF:-1,Fox Sports 3
+http://179.1.68.20:8093/play/a0sx
+#EXTINF:-1,HBO
+http://179.1.68.20:8093/play/a0u5
+#EXTINF:-1,HBO 2
+http://179.1.68.20:8093/play/a0s6
+#EXTINF:-1,HBO Family
+http://179.1.68.20:8093/play/a0s9
+#EXTINF:-1,HBO Plus
+http://179.1.68.20:8093/play/a0s7
+#EXTINF:-1,HBO XTREME SD
+http://179.1.68.20:8093/play/a0s8
+#EXTINF:-1,History Channel
+http://179.1.68.20:8093/play/a0rb
+#EXTINF:-1,HomeandHealth
+http://179.1.68.20:8093/play/a0t5
+#EXTINF:-1,I-Sat
+http://179.1.68.20:8093/play/a0re
+#EXTINF:-1,MTV
+http://179.1.68.20:8093/play/a0rf
+#EXTINF:-1,Nat Geo
+http://179.1.68.20:8093/play/a0ra
+#EXTINF:-1,Nick Jr
+http://179.1.68.20:8093/play/a0ui
+#EXTINF:-1,RCN Novelas
+http://179.1.68.20:8093/play/a0sz
+#EXTINF:-1,STAR CHANNEL
+http://179.1.68.20:8093/play/a0rj
+#EXTINF:-1,STAR LIFE
+http://179.1.68.20:8093/play/a0rh
+#EXTINF:-1,Senal Colombia
+http://179.1.68.20:8093/play/a0xm
+#EXTINF:-1,Sin Limites
+http://179.1.68.20:8093/play/a0td
+#EXTINF:-1,Sony
+http://179.1.68.20:8093/play/a0u7
+#EXTINF:-1,Space
+http://179.1.68.20:8093/play/a0u9
+#EXTINF:-1,SyFy
+http://179.1.68.20:8093/play/a12m
+#EXTINF:-1,Symphonic
+http://179.1.68.20:8093/play/a0sr
+#EXTINF:-1,TBS
+http://179.1.68.20:8093/play/a0t3
+#EXTINF:-1,TCM
+http://179.1.68.20:8093/play/a0rk
+#EXTINF:-1,TNT
+http://179.1.68.20:8093/play/a0rn
+#EXTINF:-1,TRO
+http://179.1.68.20:8093/play/a0xr
+#EXTINF:-1,Teleantioquia
+http://179.1.68.20:8093/play/a0ub
+#EXTINF:-1,Telecafe
+http://179.1.68.20:8093/play/a0uo
+#EXTINF:-1,Telecaribe
+http://179.1.68.20:8093/play/a0um
+#EXTINF:-1,Telemundo
+http://179.1.68.20:8093/play/a0sy
+#EXTINF:-1,Telepacifico
+http://179.1.68.20:8093/play/a0ud
+#EXTINF:-1,Trece
+http://179.1.68.20:8093/play/a0up
+#EXTINF:-1,Universal
+http://179.1.68.20:8093/play/a0rd
+#EXTINF:-1,Universal Cinema SD
+http://179.1.68.20:8093/play/a12k
+#EXTINF:-1,Universal Comedy SD
+http://179.1.68.20:8093/play/a12l
+#EXTINF:-1,Universal Premiere SD
+http://179.1.68.20:8093/play/a12j
+#EXTINF:-1,ViaX
+http://179.1.68.20:8093/play/a0su
+#EXTINF:-1,Win
+http://179.1.68.20:8093/play/a0uc
+#EXTINF:-1,Zona Latina
+http://179.1.68.20:8093/play/a0rg
+#EXTINF:-1,Zoom
+http://179.1.68.20:8093/play/a0xq
