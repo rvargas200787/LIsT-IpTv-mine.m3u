@@ -1,173 +1,127 @@
 #EXTM3U
-#EXTINF:-1, A&E
-http://54.215.227.94:8000/play/a0bv/index.m3u8
-#EXTINF:-1, A3 SERIES
-http://54.215.227.94:8000/play/a0b0/index.m3u8
-#EXTINF:-1, ARTS
-http://54.215.227.94:8000/play/a0bc/index.m3u8
-#EXTINF:-1, AXN
-http://54.215.227.94:8000/play/a08w/index.m3u8
-#EXTINF:-1, BABY TV
-http://54.215.227.94:8000/play/a0b9/index.m3u8
-#EXTINF:-1, BOOMERAN
-http://54.215.227.94:8000/play/a0c1/index.m3u8
-#EXTINF:-1, C
-http://54.215.227.94:8000/play/a0cq/index.m3u8
-#EXTINF:-1, D KIDS
-http://54.215.227.94:8000/play/a0an/index.m3u8
-#EXTINF:-1, DICOVERY CHANNEL
-http://54.215.227.94:8000/play/a0ep/index.m3u8
-#EXTINF:-1, DISCOVERY TURBO
-http://54.215.227.94:8000/play/a0c4/index.m3u8
-#EXTINF:-1, DISNEY CHANNEL
-http://54.215.227.94:8000/play/a0al/index.m3u8
-#EXTINF:-1, DISNEY JR
-http://54.215.227.94:8000/play/a0bz/index.m3u8
-#EXTINF:-1, ESPN
-http://54.215.227.94:8000/play/a091/index.m3u8
-#EXTINF:-1, ESPN 3
-http://54.215.227.94:8000/play/a0c3/index.m3u8
-#EXTINF:-1, E¡
-http://54.215.227.94:8000/play/a0by/index.m3u8
-#EXTINF:-1, FORMULA NOTICIAS
-http://54.215.227.94:8000/play/a0be/index.m3u8
-#EXTINF:-1, FX
-http://54.215.227.94:8000/play/a08x/index.m3u8
-#EXTINF:-1, H&H
-http://54.215.227.94:8000/play/a0bw/index.m3u8
-#EXTINF:-1, HBO
-http://54.215.227.94:8000/play/a0c5/index.m3u8
-#EXTINF:-1, HBO +
-http://54.215.227.94:8000/play/a0cv/index.m3u8
-#EXTINF:-1, IMAGEN
-http://54.215.227.94:8000/play/a0d5/index.m3u8
-#EXTINF:-1, ISAT
-http://54.215.227.94:8000/play/a0b2/index.m3u8
-#EXTINF:-1, MC
-http://54.215.227.94:8000/play/a0co/index.m3u8
-#EXTINF:-1, MTV HITS
-http://54.215.227.94:8000/play/a0b4/index.m3u8
-#EXTINF:-1, NATGEO LA
-http://54.215.227.94:8000/play/a0cl/index.m3u8
-#EXTINF:-1, NICK
-http://54.215.227.94:8000/play/a0am/index.m3u8
-#EXTINF:-1, SEX XTREME
-http://54.215.227.94:8000/play/a09c/index.m3u8
-#EXTINF:-1, SONY
-http://54.215.227.94:8000/play/a0aj/index.m3u8
-#EXTINF:-1, STUDIO UNIVERSAL
-http://54.215.227.94:8000/play/a0bh/index.m3u8
-#EXTINF:-1, TLR
-http://54.215.227.94:8000/play/a0em/index.m3u8
-#EXTINF:-1, TNT SERIES
-http://54.215.227.94:8000/play/a0da/index.m3u8
-#EXTINF:-1, VENUS
-http://54.215.227.94:8000/play/a09b/index.m3u8
-#EXTINF:-1, VH1
-http://54.215.227.94:8000/play/a0b6/index.m3u8
-#EXTINF:-1, VIDEO ROLA
-http://54.215.227.94:8000/play/a0b5/index.m3u8
-#EXTINF:-1, history 2
-http://54.215.227.94:8000/play/a0dj/index.m3u8
-#EXTINF:-1, hola tv
-http://54.215.227.94:8000/play/a0db/index.m3u8
-#EXTINF:-1, milenio
-http://54.215.227.94:8000/play/a0dm/index.m3u8
-#EXTINF:-1, nick music
-http://54.215.227.94:8000/play/a0df/index.m3u8
-#EXTINF:-1, once
-http://54.215.227.94:8000/play/a0bq/index.m3u8
-#EXTINF:-1, tbs
-http://54.215.227.94:8000/play/a0dc/index.m3u8
-#EXTINF:-1,AMC
-http://54.215.227.94:8000/play/a0k8/index.m3u8
-#EXTINF:-1,ANIMAL PLANET
-http://54.215.227.94:8000/play/a0ao/index.m3u8
-#EXTINF:-1,AZTECA 7
-http://54.215.227.94:8000/play/a0fm/index.m3u8
-#EXTINF:-1,AZTECA UNO
-http://54.215.227.94:8000/play/a0cc/index.m3u8
-#EXTINF:-1,BABY FIRST
-http://54.215.227.94:8000/play/a0kb/index.m3u8
-#EXTINF:-1,CANAL 22
-http://54.215.227.94:8000/play/a0d7/index.m3u8
-#EXTINF:-1,CANAL 5
-http://54.215.227.94:8000/play/a0fl/index.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://54.215.227.94:8000/play/a0c0/index.m3u8
-#EXTINF:-1,CINEMAX
-http://54.215.227.94:8000/play/a093/index.m3u8
-#EXTINF:-1,CLARO SPORT
-http://54.215.227.94:8000/play/a0cm/index.m3u8
-#EXTINF:-1,CNN
-http://54.215.227.94:8000/play/a0dl/index.m3u8
-#EXTINF:-1,COMEDY CENTRAL
-http://54.215.227.94:8000/play/a0b3/index.m3u8
-#EXTINF:-1,Cartonito
-http://54.215.227.94:8000/play/a0kc/index.m3u8
-#EXTINF:-1,DISCOVERY ID
-http://54.215.227.94:8000/play/a0ch/index.m3u8
-#EXTINF:-1,EL 6
-http://54.215.227.94:8000/play/a0bp/index.m3u8
-#EXTINF:-1,ESPN 2
-http://54.215.227.94:8000/play/a092/index.m3u8
-#EXTINF:-1,ESTRELLAS
-http://54.215.227.94:8000/play/a0d4/index.m3u8
-#EXTINF:-1,EUROPA
-http://54.215.227.94:8000/play/a0k6/index.m3u8
-#EXTINF:-1,FILM & ARTS
-http://54.215.227.94:8000/play/a0k9/index.m3u8
-#EXTINF:-1,GOURMET
-http://54.215.227.94:8000/play/a0k7/index.m3u8
-#EXTINF:-1,HBO 2
-http://54.215.227.94:8000/play/a0ct/index.m3u8
-#EXTINF:-1,HBO FAMILY
-http://54.215.227.94:8000/play/a0cu/index.m3u8
-#EXTINF:-1,HBO MUNDI
-http://54.215.227.94:8000/play/a0jj/index.m3u8
-#EXTINF:-1,HBO SIGNATURE
-http://54.215.227.94:8000/play/a0ji/index.m3u8
-#EXTINF:-1,HBO XTREME
-http://54.215.227.94:8000/play/a096/index.m3u8
-#EXTINF:-1,HISTORY CHANNEL
-http://54.215.227.94:8000/play/a0ap/index.m3u8
-#EXTINF:-1,HTV
-http://54.215.227.94:8000/play/a0b7/index.m3u8
-#EXTINF:-1,LIFE TIME
-http://54.215.227.94:8000/play/a0ci/index.m3u8
-#EXTINF:-1,MASCHIC
-http://54.215.227.94:8000/play/a0ka/index.m3u8
-#EXTINF:-1,MTV
-http://54.215.227.94:8000/play/a0ak/index.m3u8
-#EXTINF:-1,MTV 00
-http://54.215.227.94:8000/play/a0kh/index.m3u8
-#EXTINF:-1,MULTI PREMIER
-http://54.215.227.94:8000/play/a0cp/index.m3u8
-#EXTINF:-1,NICK JR
-http://54.215.227.94:8000/play/a0ck/index.m3u8
-#EXTINF:-1,PARAMOUNT
-http://54.215.227.94:8000/play/a0cs/index.m3u8
-#EXTINF:-1,PLAY BOY
-http://54.215.227.94:8000/play/a09a/index.m3u8
-#EXTINF:-1,RT
-http://54.215.227.94:8000/play/a0cn/index.m3u8
-#EXTINF:-1,SPACE
-http://54.215.227.94:8000/play/a0cg/index.m3u8
-#EXTINF:-1,SYFY
-http://54.215.227.94:8000/play/a0b1/index.m3u8
-#EXTINF:-1,TLC
-http://54.215.227.94:8000/play/a0bx/index.m3u8
-#EXTINF:-1,TNT
-http://54.215.227.94:8000/play/a0aq/index.m3u8
-#EXTINF:-1,UNIVERSAL
-http://54.215.227.94:8000/play/a0bt/index.m3u8
-#EXTINF:-1,WARNER
-http://54.215.227.94:8000/play/a0cf/index.m3u8
-#EXTINF:-1,cine latino
-http://54.215.227.94:8000/play/a08u/index.m3u8
-#EXTINF:-1,espn extra
-http://54.215.227.94:8000/play/a0kf/index.m3u8
-#EXTINF:-1,fox channel
-http://54.215.227.94:8000/play/a08v/index.m3u8
-#EXTINF:-1,letra a
-http://54.215.227.94:8000/play/a0bu/index.m3u8
+#EXTINF:-1,101 PLAY
+http://149.62.177.102:8000/play/a00m
+#EXTINF:-1,101TV HD
+http://149.62.177.102:8000/play/a00l
+#EXTINF:-1,24h
+http://149.62.177.102:8000/play/a00d
+#EXTINF:-1,24h HD
+http://149.62.177.102:8000/play/a00e
+#EXTINF:-1,7TV MALAGA HD
+http://149.62.177.102:8000/play/a01r
+#EXTINF:-1,AndaluciaTV
+http://149.62.177.102:8000/play/a01e
+#EXTINF:-1,BOM
+http://149.62.177.102:8000/play/a01b
+#EXTINF:-1,BOM RADIO
+http://149.62.177.102:8000/play/a026
+#EXTINF:-1,C.S.R. Málaga
+http://149.62.177.102:8000/play/a018
+#EXTINF:-1,C.TORREVISION HD
+http://149.62.177.102:8000/play/a01q
+#EXTINF:-1,CADENA 100
+http://149.62.177.102:8000/play/a024
+#EXTINF:-1,CADENA DIGITAL
+http://149.62.177.102:8000/play/a01v
+#EXTINF:-1,CANAL MALAGA
+http://149.62.177.102:8000/play/a00j
+#EXTINF:-1,CANAL MALAGA HD
+http://149.62.177.102:8000/play/a00k
+#EXTINF:-1,Canal Fiesta R.
+http://149.62.177.102:8000/play/a01c
+#EXTINF:-1,CanalSur
+http://149.62.177.102:8000/play/a016
+#EXTINF:-1,CanalSur2
+http://149.62.177.102:8000/play/a017
+#EXTINF:-1,CanalSurHD
+http://149.62.177.102:8000/play/a01a
+#EXTINF:-1,Clan
+http://149.62.177.102:8000/play/a00u
+#EXTINF:-1,Clan HD
+http://149.62.177.102:8000/play/a00r
+#EXTINF:-1,Cuatro
+http://149.62.177.102:8000/play/a02g
+#EXTINF:-1,Cuatro HD
+http://149.62.177.102:8000/play/a02k
+#EXTINF:-1,DIAL
+http://149.62.177.102:8000/play/a014
+#EXTINF:-1,DKISS
+http://149.62.177.102:8000/play/a00y
+#EXTINF:-1,DMAX
+http://149.62.177.102:8000/play/a021
+#EXTINF:-1,Disney Channel
+http://149.62.177.102:8000/play/a01z
+#EXTINF:-1,Divinity
+http://149.62.177.102:8000/play/a02i
+#EXTINF:-1,FDF
+http://149.62.177.102:8000/play/a02h
+#EXTINF:-1,FlamencoRadio.com
+http://149.62.177.102:8000/play/a019
+#EXTINF:-1,GOL PLAY
+http://149.62.177.102:8000/play/a022
+#EXTINF:-1,HIT FM
+http://149.62.177.102:8000/play/a010
+#EXTINF:-1,Kiss FM
+http://149.62.177.102:8000/play/a00z
+#EXTINF:-1,LATINO FM
+http://149.62.177.102:8000/play/a01x
+#EXTINF:-1,LOS40
+http://149.62.177.102:8000/play/a013
+#EXTINF:-1,La 1
+http://149.62.177.102:8000/play/a00b
+#EXTINF:-1,La 1 HD
+http://149.62.177.102:8000/play/a00f
+#EXTINF:-1,La 2
+http://149.62.177.102:8000/play/a00c
+#EXTINF:-1,La 2 HD
+http://149.62.177.102:8000/play/a00i
+#EXTINF:-1,Malaga 24h NoticIas
+http://149.62.177.102:8000/play/a01t
+#EXTINF:-1,PARAMOUNT NETWORK
+http://149.62.177.102:8000/play/a020
+#EXTINF:-1,PTV Malaga HD
+http://149.62.177.102:8000/play/a01s
+#EXTINF:-1,R.A.I. Málaga
+http://149.62.177.102:8000/play/a01d
+#EXTINF:-1,RADIO CHANQUETE
+http://149.62.177.102:8000/play/a01w
+#EXTINF:-1,RADIO MARCA
+http://149.62.177.102:8000/play/a023
+#EXTINF:-1,RADIO MARIA
+http://149.62.177.102:8000/play/a025
+#EXTINF:-1,RADIO ORO
+http://149.62.177.102:8000/play/a01u
+#EXTINF:-1,RNE Andalucía
+http://149.62.177.102:8000/play/a00g
+#EXTINF:-1,Radio 5 RNE
+http://149.62.177.102:8000/play/a00h
+#EXTINF:-1,Radio Clasica HQ RNE
+http://149.62.177.102:8000/play/a00v
+#EXTINF:-1,Radio Exterior RNE
+http://149.62.177.102:8000/play/a00x
+#EXTINF:-1,Radio3 HQ RNE
+http://149.62.177.102:8000/play/a00w
+#EXTINF:-1,SER
+http://149.62.177.102:8000/play/a012
+#EXTINF:-1,Telecinco
+http://149.62.177.102:8000/play/a02f
+#EXTINF:-1,Telecinco HD
+http://149.62.177.102:8000/play/a02j
+#EXTINF:-1,antena3
+http://149.62.177.102:8000/play/a029
+#EXTINF:-1,antena3 HD
+http://149.62.177.102:8000/play/a028
+#EXTINF:-1,esRadio
+http://149.62.177.102:8000/play/a011
+#EXTINF:-1,laSexta
+http://149.62.177.102:8000/play/a02b
+#EXTINF:-1,laSexta HD
+http://149.62.177.102:8000/play/a02a
+#EXTINF:-1,neox
+http://149.62.177.102:8000/play/a02c
+#EXTINF:-1,nova
+http://149.62.177.102:8000/play/a02d
+#EXTINF:-1,tdp
+http://149.62.177.102:8000/play/a00s
+#EXTINF:-1,tdp HD
+http://149.62.177.102:8000/play/a00t
