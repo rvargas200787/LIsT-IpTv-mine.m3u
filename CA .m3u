@@ -1,183 +1,517 @@
 #EXTM3U
-#EXTINF:-1,13 Marcelo
-http://45.181.121.194:8000/play/a011
-#EXTINF:-1,232 Sportext
-http://45.181.121.194:8000/play/a038
-#EXTINF:-1,233 TNT Sports HD
-http://45.181.121.194:8000/play/a039
-#EXTINF:-1,24 HORAS
-http://45.181.121.194:8000/play/a01o
-#EXTINF:-1,AE Mundo
-http://45.181.121.194:8000/play/a025
+#EXTINF:-1,24/7
+http://138.186.20.13:23200/play/a0f6
+#EXTINF:-1,A&E HD
+http://138.186.20.13:23200/play/a078
+#EXTINF:-1,A&E HD
+http://138.186.20.13:23200/play/a04k
+#EXTINF:-1,AMC HD
+http://138.186.20.13:23200/play/a079
+#EXTINF:-1,AMC HD
+http://138.186.20.13:23200/play/a05y
+#EXTINF:-1,ANTIESTRES
+http://138.186.20.13:23200/play/a0f5
+#EXTINF:-1,ATRES SERIES HD
+http://138.186.20.13:23200/play/a05a
 #EXTINF:-1,AXN
-http://45.181.121.194:8000/play/a01z
+http://138.186.20.13:23200/play/a06x
+#EXTINF:-1,AXN HD
+http://138.186.20.13:23200/play/a04n
+#EXTINF:-1,AXN HD
+http://138.186.20.13:23200/play/a092
+#EXTINF:-1,AZ Cinema
+http://138.186.20.13:23200/play/a0bb
+#EXTINF:-1,AZ Cinema HD
+http://138.186.20.13:23200/play/a065
+#EXTINF:-1,AZ click HD
+http://138.186.20.13:23200/play/a07f
+#EXTINF:-1,America TV HD
+http://138.186.20.13:23200/play/a0bn
 #EXTINF:-1,Animal Planet
-http://45.181.121.194:8000/play/a01h
-#EXTINF:-1,BabyFirst
-http://45.181.121.194:8000/play/a015
-#EXTINF:-1,CANAL 13
-http://45.181.121.194:8000/play/a01u
-#EXTINF:-1,CHV
-http://45.181.121.194:8000/play/a01t
-#EXTINF:-1,CNN Chile
-http://45.181.121.194:8000/play/a01p
-#EXTINF:-1,Campo Abierto
-http://45.181.121.194:8000/play/a00d
-#EXTINF:-1,Canal Dos HD
-http://45.181.121.194:8000/play/a02h
-#EXTINF:-1,Canal Estrellas
-http://45.181.121.194:8000/play/a02q
-#EXTINF:-1,Canal del Caballo
-http://45.181.121.194:8000/play/a036
+http://138.186.20.13:23200/play/a0e7
+#EXTINF:-1,Animal Planet HD
+http://138.186.20.13:23200/play/a075
+#EXTINF:-1,Animal Planet HD
+http://138.186.20.13:23200/play/a067
+#EXTINF:-1,Antena 3
+http://138.186.20.13:23200/play/a0d0
+#EXTINF:-1,Antena 3
+http://138.186.20.13:23200/play/a06c
+#EXTINF:-1,Az Mundo
+http://138.186.20.13:23200/play/a0e0
+#EXTINF:-1,Azcorazon
+http://138.186.20.13:23200/play/a06s
+#EXTINF:-1,BANDAMAX
+http://138.186.20.13:23200/play/a0f2
+#EXTINF:-1,BBC World
+http://138.186.20.13:23200/play/a0ck
+#EXTINF:-1,Baby First
+http://138.186.20.13:23200/play/a0db
+#EXTINF:-1,Baby TV
+http://138.186.20.13:23200/play/a069
+#EXTINF:-1,Baby TV
+http://138.186.20.13:23200/play/a08q
+#EXTINF:-1,ByM Sport
+http://138.186.20.13:23200/play/a0co
+#EXTINF:-1,CABLE NOTICIAS HD
+http://138.186.20.13:23200/play/a0dx
+#EXTINF:-1,CANTINA TV
+http://138.186.20.13:23200/play/a0fs
+#EXTINF:-1,CANTINAZO
+http://138.186.20.13:23200/play/a0f1
+#EXTINF:-1,CHV HD
+http://138.186.20.13:23200/play/a051
+#EXTINF:-1,CINE FAMILIAR HD
+http://138.186.20.13:23200/play/a0du
+#EXTINF:-1,CINECANAL HD
+http://138.186.20.13:23200/play/a0ef
+#EXTINF:-1,CNN Chile HD
+http://138.186.20.13:23200/play/a04i
+#EXTINF:-1,CNN Espaæol
+http://138.186.20.13:23200/play/a0do
+#EXTINF:-1,CNN Internacional
+http://138.186.20.13:23200/play/a06i
+#EXTINF:-1,CNN International
+http://138.186.20.13:23200/play/a0cl
+#EXTINF:-1,CableNoticias
+http://138.186.20.13:23200/play/a0c6
+#EXTINF:-1,Canal 1 HD
+http://138.186.20.13:23200/play/a0bh
+#EXTINF:-1,Canal 13
+http://138.186.20.13:23200/play/a0by
+#EXTINF:-1,Canal Institucional HD
+http://138.186.20.13:23200/play/a04z
 #EXTINF:-1,Cartoon Network
-http://45.181.121.194:8000/play/a016
-#EXTINF:-1,Cinecanal
-http://45.181.121.194:8000/play/a026
-#EXTINF:-1,Cinemax
-http://45.181.121.194:8000/play/a02a
-#EXTINF:-1,DW
-http://45.181.121.194:8000/play/a00o
+http://138.186.20.13:23200/play/a08g
+#EXTINF:-1,Cartoon Network
+http://138.186.20.13:23200/play/a06m
+#EXTINF:-1,Cartoon Network HD
+http://138.186.20.13:23200/play/a061
+#EXTINF:-1,Cartoonito
+http://138.186.20.13:23200/play/a06o
+#EXTINF:-1,Cine Hispano HD
+http://138.186.20.13:23200/play/a0dv
+#EXTINF:-1,Cine Latino
+http://138.186.20.13:23200/play/a08x
+#EXTINF:-1,Cine Premium HD
+http://138.186.20.13:23200/play/a0dt
+#EXTINF:-1,CineCanal
+http://138.186.20.13:23200/play/a090
+#EXTINF:-1,CineMax
+http://138.186.20.13:23200/play/a08y
+#EXTINF:-1,Cinecanal HD
+http://138.186.20.13:23200/play/a05x
+#EXTINF:-1,Cinemax HD
+http://138.186.20.13:23200/play/a05b
+#EXTINF:-1,Claro Cinema
+http://138.186.20.13:23200/play/a0eb
+#EXTINF:-1,Clover HD
+http://138.186.20.13:23200/play/a04t
+#EXTINF:-1,Comedy Central HD
+http://138.186.20.13:23200/play/a05c
+#EXTINF:-1,Cristovisiðn
+http://138.186.20.13:23200/play/a0am
+#EXTINF:-1,DHE HD
+http://138.186.20.13:23200/play/a07e
+#EXTINF:-1,DMJ
+http://138.186.20.13:23200/play/a0fq
+#EXTINF:-1,DW (Deutsch +)
+http://138.186.20.13:23200/play/a08t
+#EXTINF:-1,De PelŦcula
+http://138.186.20.13:23200/play/a0cf
 #EXTINF:-1,Discovery Channel
-http://45.181.121.194:8000/play/a01g
+http://138.186.20.13:23200/play/a0e6
+#EXTINF:-1,Discovery Channel HD
+http://138.186.20.13:23200/play/a09b
 #EXTINF:-1,Discovery H&H HD
-http://45.181.121.194:8000/play/a02s
-#EXTINF:-1,Discovery Kids
-http://45.181.121.194:8000/play/a013
+http://138.186.20.13:23200/play/a0fc
+#EXTINF:-1,Discovery ID HD
+http://138.186.20.13:23200/play/a09f
+#EXTINF:-1,Discovery Kids HD
+http://138.186.20.13:23200/play/a0fb
+#EXTINF:-1,Discovery Kids HD
+http://138.186.20.13:23200/play/a06j
+#EXTINF:-1,Discovery Science
+http://138.186.20.13:23200/play/a06e
+#EXTINF:-1,Discovery Theater HD
+http://138.186.20.13:23200/play/a0fd
 #EXTINF:-1,Discovery Turbo
-http://45.181.121.194:8000/play/a02y
+http://138.186.20.13:23200/play/a0ch
+#EXTINF:-1,Discovery Turbo
+http://138.186.20.13:23200/play/a0c1
+#EXTINF:-1,Discovery World HD
+http://138.186.20.13:23200/play/a09c
+#EXTINF:-1,Discovery World HD
+http://138.186.20.13:23200/play/a05w
 #EXTINF:-1,Disney Channel
-http://45.181.121.194:8000/play/a017
-#EXTINF:-1,Disney Jr
-http://45.181.121.194:8000/play/a014
-#EXTINF:-1,Dos KIDS HD
-http://45.181.121.194:8000/play/a012
-#EXTINF:-1,E Entertainment
-http://45.181.121.194:8000/play/a02u
+http://138.186.20.13:23200/play/a0bz
+#EXTINF:-1,Disney HD
+http://138.186.20.13:23200/play/a053
+#EXTINF:-1,Disney JR
+http://138.186.20.13:23200/play/a06p
+#EXTINF:-1,Disney Junior HD activo
+http://138.186.20.13:23200/play/a058
+#EXTINF:-1,E!
+http://138.186.20.13:23200/play/a0e3
+#EXTINF:-1,E! Entertainment TV
+http://138.186.20.13:23200/play/a08j
+#EXTINF:-1,E! Entertairment HD
+http://138.186.20.13:23200/play/a076
+#EXTINF:-1,E! HD
+http://138.186.20.13:23200/play/a0bj
 #EXTINF:-1,ESPN
-http://45.181.121.194:8000/play/a032
-#EXTINF:-1,ESPN 2
-http://45.181.121.194:8000/play/a033
+http://138.186.20.13:23200/play/a0ea
+#EXTINF:-1,ESPN +
+http://138.186.20.13:23200/play/a071
+#EXTINF:-1,ESPN 2 HD
+http://138.186.20.13:23200/play/a096
+#EXTINF:-1,ESPN 2 HD
+http://138.186.20.13:23200/play/a04u
+#EXTINF:-1,ESPN 2 HD
+http://138.186.20.13:23200/play/a059
+#EXTINF:-1,ESPN 2 HD
+http://138.186.20.13:23200/play/a04q
 #EXTINF:-1,ESPN 3
-http://45.181.121.194:8000/play/a034
+http://138.186.20.13:23200/play/a0di
+#EXTINF:-1,ESPN 3 HD
+http://138.186.20.13:23200/play/a095
+#EXTINF:-1,ESPN 3 HD
+http://138.186.20.13:23200/play/a056
 #EXTINF:-1,ESPN 4
-http://45.181.121.194:8000/play/a035
+http://138.186.20.13:23200/play/a0c9
+#EXTINF:-1,ESPN 4 HD
+http://138.186.20.13:23200/play/a0dp
+#EXTINF:-1,ESPN 4 HD
+http://138.186.20.13:23200/play/a091
+#EXTINF:-1,ESPN 4 HD
+http://138.186.20.13:23200/play/a0er
+#EXTINF:-1,ESPN 4 HD
+http://138.186.20.13:23200/play/a0fh
+#EXTINF:-1,ESPN EXTRA HD
+http://138.186.20.13:23200/play/a05z
+#EXTINF:-1,ESPN Extra
+http://138.186.20.13:23200/play/a0dj
+#EXTINF:-1,ESPN HD
+http://138.186.20.13:23200/play/a0fl
+#EXTINF:-1,ESPN HD
+http://138.186.20.13:23200/play/a094
+#EXTINF:-1,ESPN HD
+http://138.186.20.13:23200/play/a04y
+#EXTINF:-1,ESPN HD
+http://138.186.20.13:23200/play/a0bi
+#EXTINF:-1,EURO Channel
+http://138.186.20.13:23200/play/a0de
+#EXTINF:-1,EWTN
+http://138.186.20.13:23200/play/a06z
 #EXTINF:-1,El Gourmet
-http://45.181.121.194:8000/play/a02v
-#EXTINF:-1,Enlace
-http://45.181.121.194:8000/play/a01l
-#EXTINF:-1,FMH Kids
-http://45.181.121.194:8000/play/a019
-#EXTINF:-1,FTV
-http://45.181.121.194:8000/play/a01n
+http://138.186.20.13:23200/play/a0dg
+#EXTINF:-1,El Gourmet
+http://138.186.20.13:23200/play/a0c2
+#EXTINF:-1,El Gourmet HD
+http://138.186.20.13:23200/play/a05f
+#EXTINF:-1,Epoca
+http://138.186.20.13:23200/play/a0cj
+#EXTINF:-1,Epoca
+http://138.186.20.13:23200/play/a08p
+#EXTINF:-1,Eureka
+http://138.186.20.13:23200/play/a09k
+#EXTINF:-1,Eurochannel
+http://138.186.20.13:23200/play/a08s
+#EXTINF:-1,Eurochannel
+http://138.186.20.13:23200/play/a0cm
+#EXTINF:-1,Europa HD
+http://138.186.20.13:23200/play/a07c
+#EXTINF:-1,FMH MOVIES
+http://138.186.20.13:23200/play/a0el
+#EXTINF:-1,FOX SPORTS 2 HD
+http://138.186.20.13:23200/play/a0dq
+#EXTINF:-1,FOX SPORTS 3 HD
+http://138.186.20.13:23200/play/a097
+#EXTINF:-1,FOX Sports 2 HD
+http://138.186.20.13:23200/play/a0fi
 #EXTINF:-1,FX
-http://45.181.121.194:8000/play/a021
-#EXTINF:-1,Fitmaxx
-http://45.181.121.194:8000/play/a037
-#EXTINF:-1,Fox Sports 1
-http://45.181.121.194:8000/play/a02z
-#EXTINF:-1,Fox Sports 2
-http://45.181.121.194:8000/play/a030
-#EXTINF:-1,Fox Sports 3
-http://45.181.121.194:8000/play/a031
-#EXTINF:-1,HBO
-http://45.181.121.194:8000/play/a01b
-#EXTINF:-1,HBO 2
-http://45.181.121.194:8000/play/a01f
-#EXTINF:-1,HBO Family
-http://45.181.121.194:8000/play/a01c
-#EXTINF:-1,HBO Plus
-http://45.181.121.194:8000/play/a01d
-#EXTINF:-1,HBO XTREME
-http://45.181.121.194:8000/play/a01e
-#EXTINF:-1,History 2 HD
-http://45.181.121.194:8000/play/a01k
+http://138.186.20.13:23200/play/a0dc
+#EXTINF:-1,FX HD
+http://138.186.20.13:23200/play/a0fk
+#EXTINF:-1,FX HD
+http://138.186.20.13:23200/play/a07b
+#EXTINF:-1,FX HD IP
+http://138.186.20.13:23200/play/a0eq
+#EXTINF:-1,Film & arts HD
+http://138.186.20.13:23200/play/a077
+#EXTINF:-1,Food Network HD
+http://138.186.20.13:23200/play/a0bm
+#EXTINF:-1,Fox Sport 3
+http://138.186.20.13:23200/play/a06w
+#EXTINF:-1,Fox Sports 3 HD
+http://138.186.20.13:23200/play/a057
+#EXTINF:-1,GOLPERU HD
+http://138.186.20.13:23200/play/a0bq
+#EXTINF:-1,Globovision
+http://138.186.20.13:23200/play/a0bt
+#EXTINF:-1,Golden Premiere 2 HD
+http://138.186.20.13:23200/play/a0ds
+#EXTINF:-1,Golden Premiere 2 HD
+http://138.186.20.13:23200/play/a06l
+#EXTINF:-1,Golden Premiere HD
+http://138.186.20.13:23200/play/a06k
+#EXTINF:-1,Golden Premiere HD
+http://138.186.20.13:23200/play/a0dr
+#EXTINF:-1,Golden plus HD
+http://138.186.20.13:23200/play/a0bf
+#EXTINF:-1,Golf Channel HD
+http://138.186.20.13:23200/play/a07h
+#EXTINF:-1,H2
+http://138.186.20.13:23200/play/a0df
+#EXTINF:-1,HBO HD
+http://138.186.20.13:23200/play/a068
+#EXTINF:-1,HBO MUNDI
+http://138.186.20.13:23200/play/a0cg
+#EXTINF:-1,HBO POP HD
+http://138.186.20.13:23200/play/a04r
+#EXTINF:-1,HGTV
+http://138.186.20.13:23200/play/a0c0
+#EXTINF:-1,HOGAR TV
+http://138.186.20.13:23200/play/a0ey
+#EXTINF:-1,HOLA TV HD
+http://138.186.20.13:23200/play/a054
+#EXTINF:-1,HTV
+http://138.186.20.13:23200/play/a0c4
+#EXTINF:-1,History 2
+http://138.186.20.13:23200/play/a08i
 #EXTINF:-1,History Channel
-http://45.181.121.194:8000/play/a01j
-#EXTINF:-1,I-Sat
-http://45.181.121.194:8000/play/a02b
-#EXTINF:-1,ID
-http://45.181.121.194:8000/play/a01v
-#EXTINF:-1,Karavana TV
-http://45.181.121.194:8000/play/a02l
-#EXTINF:-1,Karavana Urbano
-http://45.181.121.194:8000/play/a02m
-#EXTINF:-1,La Red
-http://45.181.121.194:8000/play/a01q
+http://138.186.20.13:23200/play/a0e8
+#EXTINF:-1,History HD
+http://138.186.20.13:23200/play/a070
+#EXTINF:-1,Hola!TV
+http://138.186.20.13:23200/play/a06f
+#EXTINF:-1,Home Garden Latino
+http://138.186.20.13:23200/play/a06d
+#EXTINF:-1,ID HD
+http://138.186.20.13:23200/play/a05d
+#EXTINF:-1,Kanal D Drama HD
+http://138.186.20.13:23200/play/a060
+#EXTINF:-1,LIFE TIME
+http://138.186.20.13:23200/play/a06v
+#EXTINF:-1,La Red HD
+http://138.186.20.13:23200/play/a04x
+#EXTINF:-1,La voz de Maria
+http://138.186.20.13:23200/play/a0dn
+#EXTINF:-1,Las Estrellas
+http://138.186.20.13:23200/play/a0c3
+#EXTINF:-1,Las Estrellas
+http://138.186.20.13:23200/play/a0bs
+#EXTINF:-1,Latin America Sport
+http://138.186.20.13:23200/play/a0dl
+#EXTINF:-1,Latina HD
+http://138.186.20.13:23200/play/a0bo
 #EXTINF:-1,Lifetime
-http://45.181.121.194:8000/play/a023
-#EXTINF:-1,MTV
-http://45.181.121.194:8000/play/a02j
-#EXTINF:-1,MX CLASSIC
-http://45.181.121.194:8000/play/a02e
-#EXTINF:-1,MX FAMILY
-http://45.181.121.194:8000/play/a02d
-#EXTINF:-1,MX Old
-http://45.181.121.194:8000/play/a02g
-#EXTINF:-1,MX PRIME
-http://45.181.121.194:8000/play/a02f
-#EXTINF:-1,Mega
-http://45.181.121.194:8000/play/a01s
-#EXTINF:-1,Mega Marcelo
-http://45.181.121.194:8000/play/a00z
-#EXTINF:-1,Mega opcional
-http://45.181.121.194:8000/play/a001
-#EXTINF:-1,Meganoticias
-http://45.181.121.194:8000/play/a006
-#EXTINF:-1,Mundo & Sabor
-http://45.181.121.194:8000/play/a02w
-#EXTINF:-1,NTV
-http://45.181.121.194:8000/play/a01a
-#EXTINF:-1,Nat Geo
-http://45.181.121.194:8000/play/a01i
-#EXTINF:-1,Nickelodeon
-http://45.181.121.194:8000/play/a018
-#EXTINF:-1,Old Music
-http://45.181.121.194:8000/play/a02n
-#EXTINF:-1,On Tour
-http://45.181.121.194:8000/play/a02x
-#EXTINF:-1,Red de Fe
-http://45.181.121.194:8000/play/a01m
-#EXTINF:-1,STAR CHANNEL
-http://45.181.121.194:8000/play/a01x
-#EXTINF:-1,Sony
-http://45.181.121.194:8000/play/a01y
+http://138.186.20.13:23200/play/a0ca
+#EXTINF:-1,MEGA HD
+http://138.186.20.13:23200/play/a05u
+#EXTINF:-1,MTV HD
+http://138.186.20.13:23200/play/a072
+#EXTINF:-1,MTV LIVE HD
+http://138.186.20.13:23200/play/a0fg
+#EXTINF:-1,MasChic
+http://138.186.20.13:23200/play/a08k
+#EXTINF:-1,Mi Musica Popular
+http://138.186.20.13:23200/play/a0ej
+#EXTINF:-1,Mi Musica Reggaeton
+http://138.186.20.13:23200/play/a0ei
+#EXTINF:-1,Movistar Deportes HD
+http://138.186.20.13:23200/play/a0bd
+#EXTINF:-1,Multicinema
+http://138.186.20.13:23200/play/a0dm
+#EXTINF:-1,Multipremier
+http://138.186.20.13:23200/play/a08w
+#EXTINF:-1,NTN 24 Horas
+http://138.186.20.13:23200/play/a0c5
+#EXTINF:-1,Nat Geo HD
+http://138.186.20.13:23200/play/a098
+#EXTINF:-1,Nat Geo HD
+http://138.186.20.13:23200/play/a05v
+#EXTINF:-1,National Geographic
+http://138.186.20.13:23200/play/a08h
+#EXTINF:-1,Nick HD
+http://138.186.20.13:23200/play/a04w
+#EXTINF:-1,Nick Jr
+http://138.186.20.13:23200/play/a06n
+#EXTINF:-1,Nuestra Tele
+http://138.186.20.13:23200/play/a0ci
+#EXTINF:-1,Nuestra Tele
+http://138.186.20.13:23200/play/a0bx
+#EXTINF:-1,Paramount HD
+http://138.186.20.13:23200/play/a099
+#EXTINF:-1,Paramount HD
+http://138.186.20.13:23200/play/a062
+#EXTINF:-1,Pasiones
+http://138.186.20.13:23200/play/a0bc
+#EXTINF:-1,Pasiones HD
+http://138.186.20.13:23200/play/a09d
+#EXTINF:-1,Pasiones HD
+http://138.186.20.13:23200/play/a052
+#EXTINF:-1,RANCHENATO
+http://138.186.20.13:23200/play/a0ez
+#EXTINF:-1,RCN
+http://138.186.20.13:23200/play/a0bw
+#EXTINF:-1,RCN HD
+http://138.186.20.13:23200/play/a0fm
+#EXTINF:-1,RCN HD
+http://138.186.20.13:23200/play/a0f7
+#EXTINF:-1,RCN Novelas
+http://138.186.20.13:23200/play/a0dd
+#EXTINF:-1,SEMILLITAS
+http://138.186.20.13:23200/play/a06q
+#EXTINF:-1,SERIES
+http://138.186.20.13:23200/play/a0f4
+#EXTINF:-1,SONY
+http://138.186.20.13:23200/play/a0e1
+#EXTINF:-1,SONY HD
+http://138.186.20.13:23200/play/a0ee
+#EXTINF:-1,SPACE
+http://138.186.20.13:23200/play/a06t
+#EXTINF:-1,SPACE HD
+http://138.186.20.13:23200/play/a093
+#EXTINF:-1,STAR CHANNEL HD
+http://138.186.20.13:23200/play/a0fe
+#EXTINF:-1,STAR CHANNEL HD
+http://138.186.20.13:23200/play/a0ec
+#EXTINF:-1,STAR CHANNEL HD
+http://138.186.20.13:23200/play/a04v
+#EXTINF:-1,STAR TVE
+http://138.186.20.13:23200/play/a0cb
+#EXTINF:-1,STAR TVE HD
+http://138.186.20.13:23200/play/a064
+#EXTINF:-1,Seæal Colombia
+http://138.186.20.13:23200/play/a0bv
+#EXTINF:-1,Seæal Colombia HD
+http://138.186.20.13:23200/play/a0be
+#EXTINF:-1,Sony HD
+http://138.186.20.13:23200/play/a04l
+#EXTINF:-1,Sony Movies HD
+http://138.186.20.13:23200/play/a07d
 #EXTINF:-1,Space
-http://45.181.121.194:8000/play/a02c
+http://138.186.20.13:23200/play/a0ce
+#EXTINF:-1,Space HD
+http://138.186.20.13:23200/play/a04o
+#EXTINF:-1,Star TVE HD
+http://138.186.20.13:23200/play/a07g
+#EXTINF:-1,Stingray Concerts HD
+http://138.186.20.13:23200/play/a0bl
 #EXTINF:-1,Studio Universal
-http://45.181.121.194:8000/play/a022
+http://138.186.20.13:23200/play/a08z
+#EXTINF:-1,Studio Universal HD
+http://138.186.20.13:23200/play/a063
+#EXTINF:-1,Studio Universal HD
+http://138.186.20.13:23200/play/a074
+#EXTINF:-1,Sun Channel
+http://138.186.20.13:23200/play/a0dh
+#EXTINF:-1,Sun Channel
+http://138.186.20.13:23200/play/a0cc
+#EXTINF:-1,Sun Channel HD
+http://138.186.20.13:23200/play/a0fa
 #EXTINF:-1,SyFy
-http://45.181.121.194:8000/play/a024
-#EXTINF:-1,TCM
-http://45.181.121.194:8000/play/a029
+http://138.186.20.13:23200/play/a08n
+#EXTINF:-1,SyFy
+http://138.186.20.13:23200/play/a0e5
+#EXTINF:-1,TBN Enlace
+http://138.186.20.13:23200/play/a06y
+#EXTINF:-1,TELE NOSTALGIA
+http://138.186.20.13:23200/play/a0dy
 #EXTINF:-1,TLC
-http://45.181.121.194:8000/play/a02t
-#EXTINF:-1,TNT
-http://45.181.121.194:8000/play/a028
+http://138.186.20.13:23200/play/a0e9
+#EXTINF:-1,TLT
+http://138.186.20.13:23200/play/a0bu
+#EXTINF:-1,TNT HD
+http://138.186.20.13:23200/play/a055
+#EXTINF:-1,TNT SERIES HD
+http://138.186.20.13:23200/play/a0es
 #EXTINF:-1,TNT SPORTS 2
-http://45.181.121.194:8000/play/a03a
-#EXTINF:-1,TNT SPORTS 3
-http://45.181.121.194:8000/play/a03b
+http://138.186.20.13:23200/play/a0c8
+#EXTINF:-1,TNT SPORTS HD
+http://138.186.20.13:23200/play/a04p
+#EXTINF:-1,TNT Series
+http://138.186.20.13:23200/play/a06u
+#EXTINF:-1,TNT Series
+http://138.186.20.13:23200/play/a08v
 #EXTINF:-1,TNT Series HD
-http://45.181.121.194:8000/play/a027
-#EXTINF:-1,TVE
-http://45.181.121.194:8000/play/a02r
-#EXTINF:-1,TVN
-http://45.181.121.194:8000/play/a01r
+http://138.186.20.13:23200/play/a09a
+#EXTINF:-1,TNT Series HD
+http://138.186.20.13:23200/play/a0fj
+#EXTINF:-1,TOP CINE
+http://138.186.20.13:23200/play/a0ft
+#EXTINF:-1,TRUTV HD
+http://138.186.20.13:23200/play/a05e
+#EXTINF:-1,TV AGRO
+http://138.186.20.13:23200/play/a0dw
+#EXTINF:-1,TV+ HD
+http://138.186.20.13:23200/play/a05t
+#EXTINF:-1,TVN HD
+http://138.186.20.13:23200/play/a050
+#EXTINF:-1,Teen Nick HD
+http://138.186.20.13:23200/play/a073
+#EXTINF:-1,TelefØ
+http://138.186.20.13:23200/play/a0c7
+#EXTINF:-1,Telehit HD
+http://138.186.20.13:23200/play/a0bg
 #EXTINF:-1,Telemundo
-http://45.181.121.194:8000/play/a02p
-#EXTINF:-1,Teletrak
-http://45.181.121.194:8000/play/a03c
-#EXTINF:-1,UCV
-http://45.181.121.194:8000/play/a00g
-#EXTINF:-1,Universal
-http://45.181.121.194:8000/play/a020
-#EXTINF:-1,VClassic tv
-http://45.181.121.194:8000/play/a00k
-#EXTINF:-1,ViaX
-http://45.181.121.194:8000/play/a02i
+http://138.186.20.13:23200/play/a06r
+#EXTINF:-1,Telemundo HD
+http://138.186.20.13:23200/play/a07a
+#EXTINF:-1,Telesur
+http://138.186.20.13:23200/play/a08u
+#EXTINF:-1,Tooncast
+http://138.186.20.13:23200/play/a0dz
+#EXTINF:-1,Tooncast
+http://138.186.20.13:23200/play/a08r
+#EXTINF:-1,Travelxp HD
+http://138.186.20.13:23200/play/a0f9
+#EXTINF:-1,TyC Sports HD
+http://138.186.20.13:23200/play/a0bp
+#EXTINF:-1,ULTRA CINE
+http://138.186.20.13:23200/play/a0ew
+#EXTINF:-1,ULTRA DOCUMENTALES
+http://138.186.20.13:23200/play/a0ex
+#EXTINF:-1,ULTRA FAMILIA
+http://138.186.20.13:23200/play/a0et
+#EXTINF:-1,ULTRA KIDS
+http://138.186.20.13:23200/play/a0f0
+#EXTINF:-1,ULTRA MACHO
+http://138.186.20.13:23200/play/a0eu
+#EXTINF:-1,ULTRA MEX
+http://138.186.20.13:23200/play/a0ev
+#EXTINF:-1,ULTRA MUSIC
+http://138.186.20.13:23200/play/a0f3
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://138.186.20.13:23200/play/a0ff
+#EXTINF:-1,UNIVERSAL CINEMA ESTE HD
+http://138.186.20.13:23200/play/a09g
+#EXTINF:-1,Univision HD
+http://138.186.20.13:23200/play/a09e
+#EXTINF:-1,Univision HD
+http://138.186.20.13:23200/play/a0em
+#EXTINF:-1,Utra HIT
+http://138.186.20.13:23200/play/a0fp
+#EXTINF:-1,Venevision Plus
+http://138.186.20.13:23200/play/a0fo
+#EXTINF:-1,Venevision Plus
+http://138.186.20.13:23200/play/a0cz
+#EXTINF:-1,WARNER HD
+http://138.186.20.13:23200/play/a0ed
 #EXTINF:-1,Warner
-http://45.181.121.194:8000/play/a01w
-#EXTINF:-1,Zona Latina
-http://45.181.121.194:8000/play/a02k
-#EXTINF:-1,Zoom back
-http://45.181.121.194:8000/play/a02o
+http://138.186.20.13:23200/play/a0e2
+#EXTINF:-1,Warner Channel HD
+http://138.186.20.13:23200/play/a04m
+#EXTINF:-1,Win Sports HD
+http://138.186.20.13:23200/play/a04s
+#EXTINF:-1,Win Sports+ HD
+http://138.186.20.13:23200/play/a066
+#EXTINF:-1,ZooMoo
+http://138.186.20.13:23200/play/a06a
+#EXTINF:-1,cosmos
+http://138.186.20.13:23200/play/a0fr
+#EXTINF:-1,disney jr ip
+http://138.186.20.13:23200/play/a0f8
+#EXTINF:-1,rcn novelas
+http://138.186.20.13:23200/play/a0ek
