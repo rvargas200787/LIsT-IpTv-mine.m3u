@@ -16,17 +16,11 @@ http://138.186.20.13:23200/play/a05a
 #EXTINF:-1,AXN
 http://138.186.20.13:23200/play/a06x
 #EXTINF:-1,AXN HD
-http://138.186.20.13:23200/play/a04n
-#EXTINF:-1,AXN HD
 http://138.186.20.13:23200/play/a092
 #EXTINF:-1,AZ Cinema
 http://138.186.20.13:23200/play/a0bb
-#EXTINF:-1,AZ Cinema HD
-http://138.186.20.13:23200/play/a065
 #EXTINF:-1,AZ click HD
 http://138.186.20.13:23200/play/a07f
-#EXTINF:-1,America TV HD
-http://138.186.20.13:23200/play/a0bn
 #EXTINF:-1,Animal Planet
 http://138.186.20.13:23200/play/a0e7
 #EXTINF:-1,Animal Planet HD
@@ -51,16 +45,10 @@ http://138.186.20.13:23200/play/a0db
 http://138.186.20.13:23200/play/a069
 #EXTINF:-1,Baby TV
 http://138.186.20.13:23200/play/a08q
-#EXTINF:-1,ByM Sport
-http://138.186.20.13:23200/play/a0co
-#EXTINF:-1,CABLE NOTICIAS HD
-http://138.186.20.13:23200/play/a0dx
 #EXTINF:-1,CANTINA TV
 http://138.186.20.13:23200/play/a0fs
 #EXTINF:-1,CANTINAZO
 http://138.186.20.13:23200/play/a0f1
-#EXTINF:-1,CHV HD
-http://138.186.20.13:23200/play/a051
 #EXTINF:-1,CINE FAMILIAR HD
 http://138.186.20.13:23200/play/a0du
 #EXTINF:-1,CINECANAL HD
@@ -79,8 +67,6 @@ http://138.186.20.13:23200/play/a0c6
 http://138.186.20.13:23200/play/a0bh
 #EXTINF:-1,Canal 13
 http://138.186.20.13:23200/play/a0by
-#EXTINF:-1,Canal Institucional HD
-http://138.186.20.13:23200/play/a04z
 #EXTINF:-1,Cartoon Network
 http://138.186.20.13:23200/play/a08g
 #EXTINF:-1,Cartoon Network
@@ -149,8 +135,6 @@ http://138.186.20.13:23200/play/a0bz
 http://138.186.20.13:23200/play/a053
 #EXTINF:-1,Disney JR
 http://138.186.20.13:23200/play/a06p
-#EXTINF:-1,Disney Junior HD activo
-http://138.186.20.13:23200/play/a058
 #EXTINF:-1,E!
 http://138.186.20.13:23200/play/a0e3
 #EXTINF:-1,E! Entertainment TV
@@ -161,36 +145,22 @@ http://138.186.20.13:23200/play/a076
 http://138.186.20.13:23200/play/a0bj
 #EXTINF:-1,ESPN
 http://138.186.20.13:23200/play/a0ea
-#EXTINF:-1,ESPN +
-http://138.186.20.13:23200/play/a071
 #EXTINF:-1,ESPN 2 HD
 http://138.186.20.13:23200/play/a096
 #EXTINF:-1,ESPN 2 HD
 http://138.186.20.13:23200/play/a04u
 #EXTINF:-1,ESPN 2 HD
 http://138.186.20.13:23200/play/a059
-#EXTINF:-1,ESPN 2 HD
-http://138.186.20.13:23200/play/a04q
-#EXTINF:-1,ESPN 3
-http://138.186.20.13:23200/play/a0di
-#EXTINF:-1,ESPN 3 HD
-http://138.186.20.13:23200/play/a095
 #EXTINF:-1,ESPN 3 HD
 http://138.186.20.13:23200/play/a056
 #EXTINF:-1,ESPN 4
 http://138.186.20.13:23200/play/a0c9
-#EXTINF:-1,ESPN 4 HD
-http://138.186.20.13:23200/play/a0dp
-#EXTINF:-1,ESPN 4 HD
-http://138.186.20.13:23200/play/a091
 #EXTINF:-1,ESPN 4 HD
 http://138.186.20.13:23200/play/a0er
 #EXTINF:-1,ESPN 4 HD
 http://138.186.20.13:23200/play/a0fh
 #EXTINF:-1,ESPN EXTRA HD
 http://138.186.20.13:23200/play/a05z
-#EXTINF:-1,ESPN Extra
-http://138.186.20.13:23200/play/a0dj
 #EXTINF:-1,ESPN HD
 http://138.186.20.13:23200/play/a0fl
 #EXTINF:-1,ESPN HD
@@ -213,8 +183,6 @@ http://138.186.20.13:23200/play/a05f
 http://138.186.20.13:23200/play/a0cj
 #EXTINF:-1,Epoca
 http://138.186.20.13:23200/play/a08p
-#EXTINF:-1,Eureka
-http://138.186.20.13:23200/play/a09k
 #EXTINF:-1,Eurochannel
 http://138.186.20.13:23200/play/a08s
 #EXTINF:-1,Eurochannel
@@ -225,22 +193,16 @@ http://138.186.20.13:23200/play/a07c
 http://138.186.20.13:23200/play/a0el
 #EXTINF:-1,FOX SPORTS 2 HD
 http://138.186.20.13:23200/play/a0dq
-#EXTINF:-1,FOX SPORTS 3 HD
-http://138.186.20.13:23200/play/a097
 #EXTINF:-1,FOX Sports 2 HD
 http://138.186.20.13:23200/play/a0fi
 #EXTINF:-1,FX
 http://138.186.20.13:23200/play/a0dc
 #EXTINF:-1,FX HD
 http://138.186.20.13:23200/play/a0fk
-#EXTINF:-1,FX HD
-http://138.186.20.13:23200/play/a07b
 #EXTINF:-1,FX HD IP
 http://138.186.20.13:23200/play/a0eq
 #EXTINF:-1,Film & arts HD
 http://138.186.20.13:23200/play/a077
-#EXTINF:-1,Food Network HD
-http://138.186.20.13:23200/play/a0bm
 #EXTINF:-1,Fox Sport 3
 http://138.186.20.13:23200/play/a06w
 #EXTINF:-1,Fox Sports 3 HD
@@ -265,10 +227,6 @@ http://138.186.20.13:23200/play/a07h
 http://138.186.20.13:23200/play/a0df
 #EXTINF:-1,HBO HD
 http://138.186.20.13:23200/play/a068
-#EXTINF:-1,HBO MUNDI
-http://138.186.20.13:23200/play/a0cg
-#EXTINF:-1,HBO POP HD
-http://138.186.20.13:23200/play/a04r
 #EXTINF:-1,HGTV
 http://138.186.20.13:23200/play/a0c0
 #EXTINF:-1,HOGAR TV
@@ -293,8 +251,6 @@ http://138.186.20.13:23200/play/a05d
 http://138.186.20.13:23200/play/a060
 #EXTINF:-1,LIFE TIME
 http://138.186.20.13:23200/play/a06v
-#EXTINF:-1,La Red HD
-http://138.186.20.13:23200/play/a04x
 #EXTINF:-1,La voz de Maria
 http://138.186.20.13:23200/play/a0dn
 #EXTINF:-1,Las Estrellas
@@ -319,8 +275,6 @@ http://138.186.20.13:23200/play/a08k
 http://138.186.20.13:23200/play/a0ej
 #EXTINF:-1,Mi Musica Reggaeton
 http://138.186.20.13:23200/play/a0ei
-#EXTINF:-1,Movistar Deportes HD
-http://138.186.20.13:23200/play/a0bd
 #EXTINF:-1,Multicinema
 http://138.186.20.13:23200/play/a0dm
 #EXTINF:-1,Multipremier
@@ -337,10 +291,6 @@ http://138.186.20.13:23200/play/a08h
 http://138.186.20.13:23200/play/a04w
 #EXTINF:-1,Nick Jr
 http://138.186.20.13:23200/play/a06n
-#EXTINF:-1,Nuestra Tele
-http://138.186.20.13:23200/play/a0ci
-#EXTINF:-1,Nuestra Tele
-http://138.186.20.13:23200/play/a0bx
 #EXTINF:-1,Paramount HD
 http://138.186.20.13:23200/play/a099
 #EXTINF:-1,Paramount HD
@@ -357,8 +307,6 @@ http://138.186.20.13:23200/play/a0ez
 http://138.186.20.13:23200/play/a0bw
 #EXTINF:-1,RCN HD
 http://138.186.20.13:23200/play/a0fm
-#EXTINF:-1,RCN HD
-http://138.186.20.13:23200/play/a0f7
 #EXTINF:-1,RCN Novelas
 http://138.186.20.13:23200/play/a0dd
 #EXTINF:-1,SEMILLITAS
@@ -387,8 +335,6 @@ http://138.186.20.13:23200/play/a064
 http://138.186.20.13:23200/play/a0bv
 #EXTINF:-1,Seæal Colombia HD
 http://138.186.20.13:23200/play/a0be
-#EXTINF:-1,Sony HD
-http://138.186.20.13:23200/play/a04l
 #EXTINF:-1,Sony Movies HD
 http://138.186.20.13:23200/play/a07d
 #EXTINF:-1,Space
@@ -429,8 +375,6 @@ http://138.186.20.13:23200/play/a055
 http://138.186.20.13:23200/play/a0es
 #EXTINF:-1,TNT SPORTS 2
 http://138.186.20.13:23200/play/a0c8
-#EXTINF:-1,TNT SPORTS HD
-http://138.186.20.13:23200/play/a04p
 #EXTINF:-1,TNT Series
 http://138.186.20.13:23200/play/a06u
 #EXTINF:-1,TNT Series
@@ -459,8 +403,6 @@ http://138.186.20.13:23200/play/a0bg
 http://138.186.20.13:23200/play/a06r
 #EXTINF:-1,Telemundo HD
 http://138.186.20.13:23200/play/a07a
-#EXTINF:-1,Telesur
-http://138.186.20.13:23200/play/a08u
 #EXTINF:-1,Tooncast
 http://138.186.20.13:23200/play/a0dz
 #EXTINF:-1,Tooncast
