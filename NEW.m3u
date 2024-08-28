@@ -1,0 +1,141 @@
+#EXTM3U
+#EXTINF:-1,CUL-Discovery Channel
+http://192.141.99.3:8000/play/a018
+#EXTINF:-1,CUL-History Channel
+http://192.141.99.3:8000/play/a00c
+#EXTINF:-1,DEPOR - ESPN 7
+http://192.141.99.3:8000/play/a06e
+#EXTINF:-1,DEPOR Claro Sports
+http://192.141.99.3:8000/play/a02a
+#EXTINF:-1,DEPOR-ESPN 5
+http://192.141.99.3:8000/play/a01v
+#EXTINF:-1,DEPOR-Fox Sports 2
+http://192.141.99.3:8000/play/a01k
+#EXTINF:-1,DEPOR-TyC
+http://192.141.99.3:8000/play/a01g
+#EXTINF:-1,INFA - Cartoon Network SD
+http://192.141.99.3:8000/play/a05v
+#EXTINF:-1,INFA-Discovery Kids
+http://192.141.99.3:8000/play/a00m
+#EXTINF:-1,INFA-Disney Channel
+http://192.141.99.3:8000/play/a017
+#EXTINF:-1,INFA-Nick Jr
+http://192.141.99.3:8000/play/a026
+#EXTINF:-1,INFA-Nickelodeon
+http://192.141.99.3:8000/play/a009
+#EXTINF:-1,INTER-TVE
+http://192.141.99.3:8000/play/a00l
+#EXTINF:-1,M 10768V - Disney JUNIOR HD
+http://192.141.99.3:8000/play/a05o
+#EXTINF:-1,M 10768V - ESPN 2 HD
+http://192.141.99.3:8000/play/a05s
+#EXTINF:-1,M 10768V - ESPN 3 HD - EX FOX SPORT1
+http://192.141.99.3:8000/play/a05q
+#EXTINF:-1,M 10768V - ESPN 6 HD
+http://192.141.99.3:8000/play/a05r
+#EXTINF:-1,M 10768V - TNT HD
+http://192.141.99.3:8000/play/a05p
+#EXTINF:-1,M 10848H - Animal Planet HD
+http://192.141.99.3:8000/play/a05m
+#EXTINF:-1,M 10848H - ESPN 4HD
+http://192.141.99.3:8000/play/a06g
+#EXTINF:-1,M 10848H - HBO 2 HD
+http://192.141.99.3:8000/play/a05l
+#EXTINF:-1,M 10848H - HBO HD
+http://192.141.99.3:8000/play/a05j
+#EXTINF:-1,M 10848H - Nat Geo HD
+http://192.141.99.3:8000/play/a05i
+#EXTINF:-1,M 11262H - Latina HD
+http://192.141.99.3:8000/play/a030
+#EXTINF:-1,M 11262H - America TV HD
+http://192.141.99.3:8000/play/a031
+#EXTINF:-1,M 11262H - ESPN HD
+http://192.141.99.3:8000/play/a05h
+#EXTINF:-1,M 11262H - MOVISTAR GOLPERU HD
+http://192.141.99.3:8000/play/a02x
+#EXTINF:-1,M 11262H - MOVISTAR GolTV HD
+http://192.141.99.3:8000/play/a03d
+#EXTINF:-1,M 11262H - Movistar Deportes HD
+http://192.141.99.3:8000/play/a036
+#EXTINF:-1,NACIONAL-ATV
+http://192.141.99.3:8000/play/a01u
+#EXTINF:-1,NACIONAL-Panamericana TV
+http://192.141.99.3:8000/play/a01t
+#EXTINF:-1,NACIONAL-TV Peru
+http://192.141.99.3:8000/play/a01w
+#EXTINF:-1,NACIONAL-WILLAX
+http://192.141.99.3:8000/play/a01q
+#EXTINF:-1,NOTICIAS CNN Chile
+http://192.141.99.3:8000/play/a03v
+#EXTINF:-1,NOTICIAS CNN Espanol
+http://192.141.99.3:8000/play/a00n
+#EXTINF:-1,PELIS USA SD
+http://192.141.99.3:8000/play/a05y
+#EXTINF:-1,PELIS-Cinecanal
+http://192.141.99.3:8000/play/a00d
+#EXTINF:-1,PELIS-Cinemax
+http://192.141.99.3:8000/play/a021
+#EXTINF:-1,PELIS-FX
+http://192.141.99.3:8000/play/a025
+#EXTINF:-1,PELIS-Space
+http://192.141.99.3:8000/play/a024
+#EXTINF:-1,PELIS-Studio Universal
+http://192.141.99.3:8000/play/a03z
+#EXTINF:-1,PELIS-TCM
+http://192.141.99.3:8000/play/a03w
+#EXTINF:-1,PELIS-Universal Cinema SD
+http://192.141.99.3:8000/play/a066
+#EXTINF:-1,PELIS-Universal Comedy SD
+http://192.141.99.3:8000/play/a067
+#EXTINF:-1,PELIS-Universal Premiere SD
+http://192.141.99.3:8000/play/a065
+#EXTINF:-1,PREMIUM HBO Family
+http://192.141.99.3:8000/play/a03a
+#EXTINF:-1,PREMIUM HBO Plus
+http://192.141.99.3:8000/play/a038
+#EXTINF:-1,PREMIUM HBO XTREME SD
+http://192.141.99.3:8000/play/a039
+#EXTINF:-1,RELIGIOSO _ Enlace
+http://192.141.99.3:8000/play/a05e
+#EXTINF:-1,SERIES - Lifetime
+http://192.141.99.3:8000/play/a03y
+#EXTINF:-1,SERIES-AXN
+http://192.141.99.3:8000/play/a023
+#EXTINF:-1,SERIES-MTV
+http://192.141.99.3:8000/play/a02e
+#EXTINF:-1,SERIES-STAR CHANNEL
+http://192.141.99.3:8000/play/a00g
+#EXTINF:-1,SERIES-Sony
+http://192.141.99.3:8000/play/a022
+#EXTINF:-1,SERIES-SyFy
+http://192.141.99.3:8000/play/a02k
+#EXTINF:-1,SERIES-TBS
+http://192.141.99.3:8000/play/a01p
+#EXTINF:-1,SERIES-Universal
+http://192.141.99.3:8000/play/a00e
+#EXTINF:-1,SERIES-Warner
+http://192.141.99.3:8000/play/a01a
+#EXTINF:-1,VARIADOS - AE Mundo
+http://192.141.99.3:8000/play/a06b
+#EXTINF:-1,VARIADOS - Canal Claro
+http://192.141.99.3:8000/play/a06j
+#EXTINF:-1,VARIADOS - Discovery ID
+http://192.141.99.3:8000/play/a06h
+#EXTINF:-1,VARIADOS - TLC
+http://192.141.99.3:8000/play/a06c
+#EXTINF:-1,VARIADOS - TNT Novelas
+http://192.141.99.3:8000/play/a052
+#EXTINF:-1,VARIADOS - ViaX
+http://192.141.99.3:8000/play/a06d
+#EXTINF:-1,VARIADOS Zona Latina
+http://192.141.99.3:8000/play/a05u
+#EXTINF:-1,VARIADOS-Discovery Turbo
+http://192.141.99.3:8000/play/a027
+#EXTINF:-1,VARIADOS-Entertainment
+http://192.141.99.3:8000/play/a01b
+#EXTINF:-1,VARIADOS-Las Estrellas
+http://192.141.99.3:8000/play/a01j
+#EXTINF:-1,VARIADOS-RCN Novelas
+http://192.141.99.3:8000/play/a01n
+#EXTINF:-1,VARIADOS-Telemundo
+http://192.141.99.3:8000/play/a01m
