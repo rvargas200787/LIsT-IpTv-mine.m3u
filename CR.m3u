@@ -1,259 +1,151 @@
 #EXTM3U
-#EXTINF:-1,Deportes TVC
-http://200.229.147.210:25461/live/abnerhijo/valentina/1.m3u8
-#EXTINF:-1,Azteca Uno
-http://200.229.147.210:25461/live/abnerhijo/valentina/13.m3u8
-#EXTINF:-1,TDN
-http://200.229.147.210:25461/live/abnerhijo/valentina/12.m3u8
-#EXTINF:-1,Espn 6
-http://200.229.147.210:25461/live/abnerhijo/valentina/11.m3u8
-#EXTINF:-1,ESPN 4
-http://200.229.147.210:25461/live/abnerhijo/valentina/10.m3u8
-#EXTINF:-1,ESPN 2
-http://200.229.147.210:25461/live/abnerhijo/valentina/8.m3u8
-#EXTINF:-1,ESPN
-http://200.229.147.210:25461/live/abnerhijo/valentina/7.m3u8
-#EXTINF:-1,History
-http://200.229.147.210:25461/live/abnerhijo/valentina/6.m3u8
-#EXTINF:-1,Discovery ID
-http://200.229.147.210:25461/live/abnerhijo/valentina/5.m3u8
-#EXTINF:-1,Discovery H&H
-http://200.229.147.210:25461/live/abnerhijo/valentina/4.m3u8
-#EXTINF:-1,Discovery Channel
-http://200.229.147.210:25461/live/abnerhijo/valentina/3.m3u8
-#EXTINF:-1,Animal Planet
-http://200.229.147.210:25461/live/abnerhijo/valentina/2.m3u8
-#EXTINF:-1,Azteca7
-http://200.229.147.210:25461/live/abnerhijo/valentina/14.m3u8
-#EXTINF:-1,Chocho TV
-http://200.229.147.210:25461/live/abnerhijo/valentina/15.m3u8
-#EXTINF:-1,Distrito Comedia
-http://200.229.147.210:25461/live/abnerhijo/valentina/16.m3u8
-#EXTINF:-1,Glitz
-http://200.229.147.210:25461/live/abnerhijo/valentina/17.m3u8
-#EXTINF:-1,LasEstrellas
-http://200.229.147.210:25461/live/abnerhijo/valentina/18.m3u8
-#EXTINF:-1,Pasiones
-http://200.229.147.210:25461/live/abnerhijo/valentina/19.m3u8
-#EXTINF:-1,TCL
-http://200.229.147.210:25461/live/abnerhijo/valentina/20.m3u8
-#EXTINF:-1,Telemundo
-http://200.229.147.210:25461/live/abnerhijo/valentina/21.m3u8
-#EXTINF:-1,Telenovela
-http://200.229.147.210:25461/live/abnerhijo/valentina/22.m3u8
-#EXTINF:-1,Boomerand
-http://200.229.147.210:25461/live/abnerhijo/valentina/23.m3u8
-#EXTINF:-1,Cartoon Network
-http://200.229.147.210:25461/live/abnerhijo/valentina/24.m3u8
-#EXTINF:-1,Discovery Kids
-http://200.229.147.210:25461/live/abnerhijo/valentina/25.m3u8
-#EXTINF:-1,Disney Channel
-http://200.229.147.210:25461/live/abnerhijo/valentina/26.m3u8
-#EXTINF:-1,Disney Jr
-http://200.229.147.210:25461/live/abnerhijo/valentina/27.m3u8
+#EXTINF:-1,A&E HD
+http://38.51.233.85:8000/play/a03m/index.m3u8
+#EXTINF:-1,AMC HD
+http://38.51.233.85:8000/play/a01i/index.m3u8
+#EXTINF:-1,ATV
+http://38.51.233.85:8000/play/a04m/index.m3u8
+#EXTINF:-1,ATV
+http://38.51.233.85:8000/play/a03h/index.m3u8
+#EXTINF:-1,AXN HD
+http://38.51.233.85:8000/play/a03p/index.m3u8
+#EXTINF:-1,Adult Swim HD
+http://38.51.233.85:8000/play/a014/index.m3u8
+#EXTINF:-1,America TV HD
+http://38.51.233.85:8000/play/a01x/index.m3u8
+#EXTINF:-1,Animal Planet HD
+http://38.51.233.85:8000/play/a01r/index.m3u8
+#EXTINF:-1,Baby TV
+http://38.51.233.85:8000/play/a03b/index.m3u8
+#EXTINF:-1,CNN Espaæol
+http://38.51.233.85:8000/play/a03d/index.m3u8
+#EXTINF:-1,Caracol HD
+http://38.51.233.85:8000/play/a031/index.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://38.51.233.85:8000/play/a01k/index.m3u8
+#EXTINF:-1,Cinecanal HD
+http://38.51.233.85:8000/play/a01h/index.m3u8
+#EXTINF:-1,Cinemax HD
+http://38.51.233.85:8000/play/a04g/index.m3u8
+#EXTINF:-1,City TV
+http://38.51.233.85:8000/play/123/index.m3u8
+#EXTINF:-1,City TV
+http://38.51.233.85:8000/play/a03a/index.m3u8
+#EXTINF:-1,Comedy Central HD
+http://38.51.233.85:8000/play/a047/index.m3u8
+#EXTINF:-1,Discovery H&H HD
+http://38.51.233.85:8000/play/a017/index.m3u8
+#EXTINF:-1,Discovery Kids HD
+http://38.51.233.85:8000/play/a016/index.m3u8
+#EXTINF:-1,Discovery Theater HD
+http://38.51.233.85:8000/play/a04j/index.m3u8
+#EXTINF:-1,Discovery World HD
+http://38.51.233.85:8000/play/a01g/index.m3u8
+#EXTINF:-1,Disney HD
+http://38.51.233.85:8000/play/a00x/index.m3u8
+#EXTINF:-1,E! HD
+http://38.51.233.85:8000/play/a01u/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://38.51.233.85:8000/play/a03s/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://38.51.233.85:8000/play/a00z/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://38.51.233.85:8000/play/a01a/index.m3u8
+#EXTINF:-1,ESPN 5HD
+http://38.51.233.85:8000/play/a04e/index.m3u8
+#EXTINF:-1,ESPN 6
+http://38.51.233.85:8000/play/a04k/index.m3u8
+#EXTINF:-1,ESPN 7HD
+http://38.51.233.85:8000/play/a04f/index.m3u8
+#EXTINF:-1,ESPN HD
+http://38.51.233.85:8000/play/a03x/index.m3u8
+#EXTINF:-1,ElCanaldelFutbol HD
+http://38.51.233.85:8000/play/a020/index.m3u8
+#EXTINF:-1,FX HD
+http://38.51.233.85:8000/play/a01d/index.m3u8
+#EXTINF:-1,Food Network HD
+http://38.51.233.85:8000/play/a01w/index.m3u8
+#EXTINF:-1,Fox Sports 1 HD
+http://38.51.233.85:8000/play/a02u/index.m3u8
+#EXTINF:-1,Fox Sports 2 HD
+http://38.51.233.85:8000/play/a01b/index.m3u8
+#EXTINF:-1,Fox Sports 3 HD
+http://38.51.233.85:8000/play/a010/index.m3u8
+#EXTINF:-1,GLOBAL
+http://38.51.233.85:8000/play/a03i/index.m3u8
+#EXTINF:-1,GolTV HD
+http://38.51.233.85:8000/play/a01v/index.m3u8
+#EXTINF:-1,Golden HD
+http://38.51.233.85:8000/play/a01s/index.m3u8
+#EXTINF:-1,HBO 2 HD
+http://38.51.233.85:8000/play/a01p/index.m3u8
+#EXTINF:-1,HBO Family HD
+http://38.51.233.85:8000/play/a02w/index.m3u8
+#EXTINF:-1,HBO HD
+http://38.51.233.85:8000/play/a01j/index.m3u8
+#EXTINF:-1,HBO XTREME HD
+http://38.51.233.85:8000/play/a02x/index.m3u8
+#EXTINF:-1,History 2 HD
+http://38.51.233.85:8000/play/a02v/index.m3u8
+#EXTINF:-1,History Channel HD
+http://38.51.233.85:8000/play/a03l/index.m3u8
+#EXTINF:-1,ID HD
+http://38.51.233.85:8000/play/a013/index.m3u8
+#EXTINF:-1,Kanal D Drama
+http://38.51.233.85:8000/play/a03j/index.m3u8
+#EXTINF:-1,Las Estrellas HD
+http://38.51.233.85:8000/play/a02t/index.m3u8
+#EXTINF:-1,Latina HD
+http://38.51.233.85:8000/play/a01y/index.m3u8
+#EXTINF:-1,Locomotion
+http://38.51.233.85:8000/play/a048/index.m3u8
+#EXTINF:-1,Love Nature HD
+http://38.51.233.85:8000/play/a044/index.m3u8
+#EXTINF:-1,Nat Geo HD
+http://38.51.233.85:8000/play/a01f/index.m3u8
+#EXTINF:-1,Nick HD
+http://38.51.233.85:8000/play/a03w/index.m3u8
 #EXTINF:-1,Nick Jr
-http://200.229.147.210:25461/live/abnerhijo/valentina/29.m3u8
+http://38.51.233.85:8000/play/a04h/index.m3u8
+#EXTINF:-1,Panamericana
+http://38.51.233.85:8000/play/a03f/index.m3u8
+#EXTINF:-1,Paramount HD
+http://38.51.233.85:8000/play/a01l/index.m3u8
+#EXTINF:-1,Pasiones HD
+http://38.51.233.85:8000/play/a00w/index.m3u8
+#EXTINF:-1,STAR CHANNEL HD
+http://38.51.233.85:8000/play/a03v/index.m3u8
+#EXTINF:-1,Sony HD
+http://38.51.233.85:8000/play/a03n/index.m3u8
+#EXTINF:-1,Space HD
+http://38.51.233.85:8000/play/a03q/index.m3u8
+#EXTINF:-1,Studio Universal HD
+http://38.51.233.85:8000/play/a01m/index.m3u8
+#EXTINF:-1,TNT HD
+http://38.51.233.85:8000/play/a00y/index.m3u8
+#EXTINF:-1,TNT Novelas HD
+http://38.51.233.85:8000/play/a02o/index.m3u8
+#EXTINF:-1,TNT SPORTS HD
+http://38.51.233.85:8000/play/a03r/index.m3u8
+#EXTINF:-1,TNT Series HD
+http://38.51.233.85:8000/play/a01c/index.m3u8
+#EXTINF:-1,TV+ HD
+http://38.51.233.85:8000/play/a040/index.m3u8
+#EXTINF:-1,Teleantioquia
+http://38.51.233.85:8000/play/a039/index.m3u8
+#EXTINF:-1,Telemundo
+http://38.51.233.85:8000/play/a03k/index.m3u8
 #EXTINF:-1,Tooncast
-http://200.229.147.210:25461/live/abnerhijo/valentina/30.m3u8
-#EXTINF:-1,Canal 5 MX
-http://200.229.147.210:25461/live/abnerhijo/valentina/31.m3u8
-#EXTINF:-1,BandaMax
-http://200.229.147.210:25461/live/abnerhijo/valentina/32.m3u8
-#EXTINF:-1,Htv
-http://200.229.147.210:25461/live/abnerhijo/valentina/33.m3u8
-#EXTINF:-1,Telehit
-http://200.229.147.210:25461/live/abnerhijo/valentina/34.m3u8
-#EXTINF:-1,Telehit Hurbano
-http://200.229.147.210:25461/live/abnerhijo/valentina/35.m3u8
-#EXTINF:-1,Canal 5 El Lider
-http://200.229.147.210:25461/live/abnerhijo/valentina/36.m3u8
-#EXTINF:-1,Choluvision
-http://200.229.147.210:25461/live/abnerhijo/valentina/38.m3u8
-#EXTINF:-1,HCH
-http://200.229.147.210:25461/live/abnerhijo/valentina/39.m3u8
-#EXTINF:-1,MegaTV
-http://200.229.147.210:25461/live/abnerhijo/valentina/40.m3u8
-#EXTINF:-1,MetroTV
-http://200.229.147.210:25461/live/abnerhijo/valentina/41.m3u8
-#EXTINF:-1,Prensa Libre
-http://200.229.147.210:25461/live/abnerhijo/valentina/42.m3u8
-#EXTINF:-1,TSI
-http://200.229.147.210:25461/live/abnerhijo/valentina/43.m3u8
-#EXTINF:-1,TVS
-http://200.229.147.210:25461/live/abnerhijo/valentina/44.m3u8
-#EXTINF:-1,Telecadena 7/4
-http://200.229.147.210:25461/live/abnerhijo/valentina/45.m3u8
-#EXTINF:-1,Televictoria
-http://200.229.147.210:25461/live/abnerhijo/valentina/46.m3u8
-#EXTINF:-1,Televida
-http://200.229.147.210:25461/live/abnerhijo/valentina/47.m3u8
-#EXTINF:-1,VTV
-http://200.229.147.210:25461/live/abnerhijo/valentina/48.m3u8
-#EXTINF:-1,Viva TV
-http://200.229.147.210:25461/live/abnerhijo/valentina/49.m3u8
-#EXTINF:-1,CNN
-http://200.229.147.210:25461/live/abnerhijo/valentina/50.m3u8
-#EXTINF:-1,Cine Latino
-http://200.229.147.210:25461/live/abnerhijo/valentina/51.m3u8
-#EXTINF:-1,CineCanal
-http://200.229.147.210:25461/live/abnerhijo/valentina/52.m3u8
-#EXTINF:-1,CineMax
-http://200.229.147.210:25461/live/abnerhijo/valentina/53.m3u8
-#EXTINF:-1,DePelicula
-http://200.229.147.210:25461/live/abnerhijo/valentina/54.m3u8
-#EXTINF:-1e="Peliculas y Series",Encore
-http://200.229.147.210:25461/live/abnerhijo/valentina/55.m3u8
-#EXTINF:-1,Golden
-http://200.229.147.210:25461/live/abnerhijo/valentina/56.m3u8
-#EXTINF:-1,Golden Choice
-http://200.229.147.210:25461/live/abnerhijo/valentina/57.m3u8
-#EXTINF:-1,Sony
-http://200.229.147.210:25461/live/abnerhijo/valentina/58.m3u8
-#EXTINF:-1,Space
-http://200.229.147.210:25461/live/abnerhijo/valentina/59.m3u8
-#EXTINF:-1,Star Channel
-http://200.229.147.210:25461/live/abnerhijo/valentina/60.m3u8
-#EXTINF:-1,Starz
-http://200.229.147.210:25461/live/abnerhijo/valentina/61.m3u8
-#EXTINF:-1,Studio Universal
-http://200.229.147.210:25461/live/abnerhijo/valentina/62.m3u8
-#EXTINF:-,TCM
-http://200.229.147.210:25461/live/abnerhijo/valentina/63.m3u8
-#EXTINF:-1,TNT
-http://200.229.147.210:25461/live/abnerhijo/valentina/64.m3u8
-#EXTINF:-1,TNT Series
-http://200.229.147.210:25461/live/abnerhijo/valentina/65.m3u8
-#EXTINF:-1,JBN
-http://200.229.147.210:25461/live/abnerhijo/valentina/66.m3u8
-#EXTINF:-1,Bein Sport
-http://200.229.147.210:25461/live/abnerhijo/valentina/69.m3u8
-#EXTINF:-1,Coco tv
-http://200.229.147.210:25461/live/abnerhijo/valentina/72.m3u8
-#EXTINF:-1,Golden Edge
-http://200.229.147.210:25461/live/abnerhijo/valentina/73.m3u8
-#EXTINF:-1,BIT ME
-http://200.229.147.210:25461/live/abnerhijo/valentina/74.m3u8
-#EXTINF:-1,TV AGRO
-http://200.229.147.210:25461/live/abnerhijo/valentina/75.m3u8
-#EXTINF:-1,AZ CORAZON
-http://200.229.147.210:25461/live/abnerhijo/valentina/76.m3u8
-#EXTINF:-1,HGTV
-http://200.229.147.210:25461/live/abnerhijo/valentina/77.m3u8
-#EXTINF:-1,ESPN 3
-http://200.229.147.210:25461/live/abnerhijo/valentina/78.m3u8
-#EXTINF:-1,CGTV
-http://200.229.147.210:25461/live/abnerhijo/valentina/79.m3u8
-#EXTINF:-1,SCIENCE
-http://200.229.147.210:25461/live/abnerhijo/valentina/80.m3u8
-#EXTINF:-1,TV ESPAÑOLA
-http://200.229.147.210:25461/live/abnerhijo/valentina/81.m3u8
-#EXTINF:-1,QHUBO TV
-http://200.229.147.210:25461/live/abnerhijo/valentina/82.m3u8
-#EXTINF:-1,CANAL 11
-http://200.229.147.210:25461/live/abnerhijo/valentina/83.m3u8
-#EXTINF:-1,Nickelodeon
-http://200.229.147.210:25461/live/abnerhijo/valentina/84.m3u8
-#EXTINF:-1,MTV HITS
-http://200.229.147.210:25461/live/abnerhijo/valentina/85.m3u8
-#EXTINF:-1,MTV
-http://200.229.147.210:25461/live/abnerhijo/valentina/86.m3u8
-#EXTINF:-1,STAR FX
-http://200.229.147.210:25461/live/abnerhijo/valentina/87.m3u8
-#EXTINF:-1,WARNER
-http://200.229.147.210:25461/live/abnerhijo/valentina/88.m3u8
-#EXTINF:-1,AXN
-http://200.229.147.210:25461/live/abnerhijo/valentina/89.m3u8
-#EXTINF:-1,RCN NOVELAS
-http://200.229.147.210:25461/live/abnerhijo/valentina/90.m3u8
-#EXTINF:-1,MULTI PREMIER
-http://200.229.147.210:25461/live/abnerhijo/valentina/91.m3u8
-#EXTINF:-1,Nuevo Mundo
-http://200.229.147.210:25461/live/abnerhijo/valentina/93.m3u8
-#EXTINF:-1,DTV
-http://200.229.147.210:25461/live/abnerhijo/valentina/94.m3u8
-#EXTINF:-1,VEA CANAL
-http://200.229.147.210:25461/live/abnerhijo/valentina/95.m3u8
-#EXTINF:-1,CCI Channel
-http://200.229.147.210:25461/live/abnerhijo/valentina/96.m3u8
-#EXTINF:-1,Picosa Tv
-http://200.229.147.210:25461/live/abnerhijo/valentina/97.m3u8
-#EXTINF:-1,TV 12
-http://200.229.147.210:25461/live/abnerhijo/valentina/99.m3u8
-#EXTINF:-1,Suyapa tv
-http://200.229.147.210:25461/live/abnerhijo/valentina/100.m3u8
-#EXTINF:-1,ENLACE
-http://200.229.147.210:25461/live/abnerhijo/valentina/101.m3u8
-#EXTINF:-1,EJTV
-http://200.229.147.210:25461/live/abnerhijo/valentina/102.m3u8
-#EXTINF:-1,TEN/10
-http://200.229.147.210:25461/live/abnerhijo/valentina/103.m3u8
-#EXTINF:-1,Canal sur RD
-http://200.229.147.210:25461/live/abnerhijo/valentina/104.m3u8
-#EXTINF:-1,Conectado con Dios
-http://200.229.147.210:25461/live/abnerhijo/valentina/105.m3u8
-#EXTINF:-1,Canal Antigua GT
-http://200.229.147.210:25461/live/abnerhijo/valentina/107.m3u8
-#EXTINF:-1,Canal 6
-http://200.229.147.210:25461/live/abnerhijo/valentina/108.m3u8
-#EXTINF:-1,UNE TV
-http://200.229.147.210:25461/live/abnerhijo/valentina/110.m3u8
-#EXTINF:-1,CONGRESO
-http://200.229.147.210:25461/live/abnerhijo/valentina/111.m3u8
-#EXTINF:-1,LTV
-http://200.229.147.210:25461/live/abnerhijo/valentina/112.m3u8
-#EXTINF:-1,Canal 4 San Lorenzo
-http://200.229.147.210:25461/live/abnerhijo/valentina/113.m3u8
-#EXTINF:-1,NuevaVision
-http://200.229.147.210:25461/live/abnerhijo/valentina/114.m3u8
-#EXTINF:-1,CHTV
-http://200.229.147.210:25461/live/abnerhijo/valentina/115.m3u8
-#EXTINF:-1,FFAA
-http://200.229.147.210:25461/live/abnerhijo/valentina/116.m3u8
-#EXTINF:-1,Meridiano Tv
-http://200.229.147.210:25461/live/abnerhijo/valentina/117.m3u8
-#EXTINF:-1,CARACOL
-http://200.229.147.210:25461/live/abnerhijo/valentina/118.m3u8
-#EXTINF:-1,TNT NOVELAS
-http://200.229.147.210:25461/live/abnerhijo/valentina/119.m3u8
-#EXTINF:-1,Tigo Sport
-http://200.229.147.210:25461/live/abnerhijo/valentina/120.m3u8
-#EXTINF:-1,HITV
-http://200.229.147.210:25461/live/abnerhijo/valentina/125.m3u8
-#EXTINF:-1,TELECHAT
-http://200.229.147.210:25461/live/abnerhijo/valentina/126.m3u8
-#EXTINF:-1,BOOMTV
-http://200.229.147.210:25461/live/abnerhijo/valentina/127.m3u8
-#EXTINF:-1,CRTV
-http://200.229.147.210:25461/live/abnerhijo/valentina/128.m3u8
-#EXTINF:-1,Cartoonito
-http://200.229.147.210:25461/live/abnerhijo/valentina/129.m3u8
-#EXTINF:-1,Discovery Turbo
-http://200.229.147.210:25461/live/abnerhijo/valentina/130.m3u8
-#EXTINF:-1,Inmaculada tv
-http://200.229.147.210:25461/live/abnerhijo/valentina/131.m3u8
-#EXTINF:-1,TELESUR
-http://200.229.147.210:25461/live/abnerhijo/valentina/132.m3u8
-#EXTINF:-1,Choluteca Tv
-http://200.229.147.210:25461/live/abnerhijo/valentina/133.m3u8
-#EXTINF:-1,Oromar tv
-http://200.229.147.210:25461/live/abnerhijo/valentina/134.m3u8
-#EXTINF:-1,3ABN
-http://200.229.147.210:25461/live/abnerhijo/valentina/135.m3u8
-#EXTINF:-1,Azteca Honduras
-http://200.229.147.210:25461/live/abnerhijo/valentina/137.m3u8
-#EXTINF:-1,CVS
-http://200.229.147.210:25461/live/abnerhijo/valentina/138.m3u8
-#EXTINF:-1,Maya Tv
-http://200.229.147.210:25461/live/abnerhijo/valentina/139.m3u8
-#EXTINF:-1,Espn 5
-http://200.229.147.210:25461/live/abnerhijo/valentina/140.m3u8
-#EXTINF:-1,TeleMarcovia
-http://200.229.147.210:25461/live/abnerhijo/valentina/141.m3u8
-#EXTINF:-1,TNH 8
-http://200.229.147.210:25461/live/abnerhijo/valentina/142.m3u8
-#EXTINF:-1,Nacion Tv
-http://200.229.147.210:25461/live/abnerhijo/valentina/143.m3u8
-#EXTINF:-1,Tele Chat
-http://200.229.147.210:25461/live/abnerhijo/valentina/144.m3u8
-#EXTINF:-1,PARAMOUNT
-http://200.229.147.210:25461/live/abnerhijo/valentina/92.m3u8
+http://38.51.233.85:8000/play/a03c/index.m3u8
+#EXTINF:-1,TyC Sports HD
+http://38.51.233.85:8000/play/a01z/index.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://38.51.233.85:8000/play/a019/index.m3u8
+#EXTINF:-1,Warner Channel HD
+http://38.51.233.85:8000/play/a03o/index.m3u8
+#EXTINF:-1,Win Sports HD
+http://38.51.233.85:8000/play/a03t/index.m3u8
+#EXTINF:-1,Win Sports+ HD
+http://38.51.233.85:8000/play/a01q/index.m3u8
+#EXTINF:-1,aaaa
+http://38.51.233.85:8000/play/a04l/index.m3u8
