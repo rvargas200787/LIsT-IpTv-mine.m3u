@@ -1,6 +1,4 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="156" tvg-name="+ Listas en M3U.CL" tvg-logo="https://cdn.m3u.cl/logo/156___Listas_en_M3U_CL.png", + Listas en M3U.CL ✪ | CL
-https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1513" tvg-name="Kan 11" tvg-logo="https://cdn.m3u.cl/logo/1513_Kan_11.png", Kan 11 ✪ | IL
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1512" tvg-name="Palestine TV" tvg-logo="https://cdn.m3u.cl/logo/1512_Palestine_TV.png", Palestine TV ✪ | PS
