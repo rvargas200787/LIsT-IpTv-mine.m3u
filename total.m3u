@@ -1,101 +1,117 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="1421" tvg-name="13 Kids" tvg-logo="https://cdn.m3u.cl/logo/1421_13_Kids.png", 13 Kids | CL
-https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1081" tvg-name="AnimeStation" tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png", AnimeStation | AR
-https://xhateaec.com:8800/hls/zenitsurage/zenitsurage/8a102fcf75f3797d2b1abe3b1cad04c0/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1585" tvg-name="AniRetro" tvg-logo="https://cdn.m3u.cl/logo/1585_AniRetro.png", AniRetro | CL
-https://tv.streaming-chile.com:19360/8068/8068.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1279" tvg-name="Chiquilines - Freetv.com" tvg-logo="https://cdn.m3u.cl/logo/1279_Chiquilines___Freetv_com.png", Chiquilines - Freetv.com | US
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="52" tvg-name="Dreiko TV" tvg-logo="https://cdn.m3u.cl/logo/52_Dreiko_TV.png", Dreiko TV | PA
-https://cloudvideo.servers10.com:8081/8096/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1112" tvg-name="EnerGeek FAN" tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png", EnerGeek FAN | CL
-https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1266" tvg-name="EnerGeek Radio" tvg-logo="https://cdn.m3u.cl/logo/1266_EnerGeek_Radio.png", EnerGeek Radio | CL
-https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="947" tvg-name="EnerGeek Retro" tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek_Retro.png", EnerGeek Retro | CL
-https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1583" tvg-name="Greekz" tvg-logo="https://cdn.m3u.cl/logo/1583_Greekz.png", Greekz | CL
-https://stream.zafirehosting.com:3911/live/greekztvlive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1466" tvg-name="Kanade TV" tvg-logo="https://cdn.m3u.cl/logo/1466_Kanade_TV.png", Kanade TV | CL
-https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://cdn.m3u.cl/logo/1019_Latino_Kids_TV.png", Latino Kids TV | UY
-https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="50" tvg-name="Locomotion" tvg-logo="https://cdn.m3u.cl/logo/50_Locomotion.png", Locomotion | AR
-http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1304" tvg-name="Magic Kids" tvg-logo="https://cdn.m3u.cl/logo/1304_Magic_Kids.png", Magic Kids | AR
-https://ssh101-fl.bozztv.com/ssh101/magic2019/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1300" tvg-name="Moni TV" tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png", Moni TV | CL
-https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="45" tvg-name="NTV" tvg-logo="https://cdn.m3u.cl/logo/45_NTV.png", NTV | CL
-https://marine2.miplay.cl/ntv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1619" tvg-name="Opinionsur Niños" tvg-logo="https://cdn.m3u.cl/logo/1619_Opinionsur_Ninos.png", Opinionsur Niños | CL
-https://glb.bozztv.com/glb/ssh101/opinionsurn/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="206" tvg-name="Paka Paka" tvg-logo="https://cdn.m3u.cl/logo/206_Paka_Paka.png", Paka Paka | AR
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="200" tvg-name="Pequeradio TV" tvg-logo="https://cdn.m3u.cl/logo/200_Pequeradio_TV.jpg", Pequeradio TV | ES
-http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1335" tvg-name="VariedTV" tvg-logo="https://cdn.m3u.cl/logo/1335_VariedTV.png", VariedTV | AR
-https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1604" tvg-name="ZTV Anime" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png", ZTV Anime | CL
-https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="71" tvg-name="Antofagasta TV" tvg-logo="https://cdn.m3u.cl/logo/71_Antofagasta_TV.png", Antofagasta TV | CL
-https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="76" tvg-name="Canal 2 de San Antonio" tvg-logo="https://cdn.m3u.cl/logo/76_Canal_2_de_San_Antonio.png", Canal 2 de San Antonio | CL
-https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="86" tvg-name="Canal 2 Quellon" tvg-logo="https://cdn.m3u.cl/logo/86_Canal_2_Quellon.png", Canal 2 Quellon | CL
-https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="81" tvg-name="Contivision" tvg-logo="https://cdn.m3u.cl/logo/81_Contivision.png", Contivision | CL
-https://unlimited2-cl-isp.dps.live/cm/cm.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="85" tvg-name="Decima TV" tvg-logo="https://cdn.m3u.cl/logo/85_Decima_TV.png", Decima TV | CL
-https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="79" tvg-name="En Linea Maule" tvg-logo="https://cdn.m3u.cl/logo/79_En_Linea_Maule.png", En Linea Maule | CL
-https://v1.tustreaming.cl/enlineamauletv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="72" tvg-name="Holvoet TV" tvg-logo="https://cdn.m3u.cl/logo/72_Holvoet_TV.png", Holvoet TV | CL
-https://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="87" tvg-name="ITV Patagonia" tvg-logo="https://cdn.m3u.cl/logo/87_ITV_Patagonia.png", ITV Patagonia | CL
-https://unlimited1-cl-isp.dps.live/itv/itv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="83" tvg-name="Pucon TV" tvg-logo="https://cdn.m3u.cl/logo/83_Pucon_TV.png", Pucon TV | CL
-https://unlimited1-cl-isp.dps.live/pucontv/pucontv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="84" tvg-name="T-Vinet" tvg-logo="https://cdn.m3u.cl/logo/84_T_Vinet.png", T-Vinet | CL
-https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="82" tvg-name="Teleangol Radio" tvg-logo="https://cdn.m3u.cl/logo/82_Teleangol_Radio.png", Teleangol Radio | CL
-https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1025" tvg-name="Telecanal Santa Cruz" tvg-logo="https://cdn.m3u.cl/logo/1025_Telecanal_Santa_Cruz.png", Telecanal Santa Cruz | CL
-https://eu1.servers10.com:8081/8194/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="80" tvg-name="TV 5 Linares" tvg-logo="https://cdn.m3u.cl/logo/80_TV_5_Linares.png", TV 5 Linares | CL
-https://v1.tustreaming.cl/tv5linares/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="77" tvg-name="TVR" tvg-logo="https://cdn.m3u.cl/logo/77_TVR.png", TVR | CL
-https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="78" tvg-name="TVR Canal 11" tvg-logo="https://cdn.m3u.cl/logo/78_TVR_Canal_11.png", TVR Canal 11 | CL
-https://unlimited6-cl.dps.live/tvrcurico/tvrcurico.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="75" tvg-name="VoxPopuli Chile" tvg-logo="https://cdn.m3u.cl/logo/75_VoxPopuli_Chile.png", VoxPopuli Chile | CL
-https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="335" tvg-name="VTV" tvg-logo="https://cdn.m3u.cl/logo/335_VTV.png", VTV | CL
-https://unlimited2-cl-isp.dps.live/vtv/vtv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="251" tvg-name="13 Max Television" tvg-logo="https://cdn.m3u.cl/logo/251_13_Max_Television.png", 13 Max Television | AR
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1551" tvg-name="24-7 TV" tvg-logo="https://cdn.m3u.cl/logo/1551_24_7_TV.png", 24-7 TV | AR
-https://stmv5.voxtvhd.com.br/247tv/247tv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="221" tvg-name="5R TV Santa Fe" tvg-logo="https://cdn.m3u.cl/logo/221_5R_TV_Santa_Fe.png", 5R TV Santa Fe | AR
-http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="249" tvg-name="5TV" tvg-logo="https://cdn.m3u.cl/logo/249_5TV.png", 5TV | AR
-https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="222" tvg-name="Acequia" tvg-logo="https://cdn.m3u.cl/logo/222_Acequia.png", Acequia | AR
-http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1562" tvg-name="Agenda Necochense" tvg-logo="https://cdn.m3u.cl/logo/1562_Agenda_Necochense.png", Agenda Necochense | AR
-https://stmv5.livecastv.com/neccoagenda/neccoagenda/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="252" tvg-name="Aire de Santa Fe" tvg-logo="https://cdn.m3u.cl/logo/252_Aire_de_Santa_Fe.png", Aire de Santa Fe | AR
-https://redirector.dps.live/hls/airedesantafetv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1576" tvg-name="Alegria TV" tvg-logo="https://cdn.m3u.cl/logo/1576_Alegria_TV.png", Alegria TV | AR
-https://videostream.shockmedia.com.ar:19360/cadenaalegriafm/cadenaalegriafm.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1150" tvg-name="Antena 91" tvg-logo="https://cdn.m3u.cl/logo/1150_Antena_91.png", Antena 91 | AR
-https://tuvideoonline.com.ar:3393/live/antena91live.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="253" tvg-name="Argentinisima Satelital" tvg-logo="https://cdn.m3u.cl/logo/253_Argentinisima_Satelital.png", Argentinisima Satelital | AR
-https://stream1.sersat.com/hls/argentinisima.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1333" tvg-name="AVC HD" tvg-logo="https://cdn.m3u.cl/logo/1333_AVC_HD.png", AVC HD | AR
-https://ssh101.bozztv.com/ssh101/streamavc/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="215" tvg-name="Azahares Radio Multimedia" tvg-logo="https://cdn.m3u.cl/logo/215_Azahares_Radio_Multimedia.png", Azahares Radio Multimedia | AR
-http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1200" tvg-name="Bayres TV" tvg-logo="https://cdn.m3u.cl/logo/1200_Bayres_TV.png", Bayres TV | AR
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
+#EXTINF:-1,ViX Premium Deportes 01
+http://twomonkeys.live/Jesus10/Jesus10/1077637
+#EXTINF:-1,ViX Premium Deportes 02
+http://twomonkeys.live/Jesus10/Jesus10/1077638
+#EXTINF:-1,ViX Premium Deportes 03
+http://twomonkeys.live/Jesus10/Jesus10/1077639
+#EXTINF:-1,ViX Premium Deportes 04
+http://twomonkeys.live/Jesus10/Jesus10/1077640
+#EXTINF:-1,ViX Premium Deportes 05
+http://twomonkeys.live/Jesus10/Jesus10/1077641
+#EXTINF:-1,ViX Premium Deportes 07
+http://twomonkeys.live/Jesus10/Jesus10/1077642
+#EXTINF:-1,ViX Premium Deportes 08
+http://twomonkeys.live/Jesus10/Jesus10/1077643
+#EXTINF:-1,ViX Premium Deportes 09
+http://twomonkeys.live/Jesus10/Jesus10/1077644
+#EXTINF:-1,ViX Premium Deportes 10
+http://twomonkeys.live/Jesus10/Jesus10/1077645
+#EXTINF:-1,ViX Premium Deportes 11
+http://twomonkeys.live/Jesus10/Jesus10/1077646
+#EXTINF:-1,ViX Premium Deportes 12
+http://twomonkeys.live/Jesus10/Jesus10/1077647
+#EXTINF:-1,ViX Premium Deportes 13
+http://twomonkeys.live/Jesus10/Jesus10/1077648
+#EXTINF:-1,ViX Premium Deportes 14
+http://twomonkeys.live/Jesus10/Jesus10/1077649
+#EXTINF:-1,ViX Premium Deportes 15
+http://twomonkeys.live/Jesus10/Jesus10/1077650
+#EXTINF:-1,ViX Premium Deportes 16
+http://twomonkeys.live/Jesus10/Jesus10/1077651
+#EXTINF:-1,ViX Premium Deportes 17
+http://twomonkeys.live/Jesus10/Jesus10/1077652
+#EXTINF:-1,ViX Premium Deportes 18
+http://twomonkeys.live/Jesus10/Jesus10/1077653
+#EXTINF:-1,ViX Premium Deportes 19
+http://twomonkeys.live/Jesus10/Jesus10/1077654
+#EXTINF:-1,ViX Premium Deportes 20
+http://twomonkeys.live/Jesus10/Jesus10/1077655
+#EXTINF:-1,Directv Sports Peru
+http://twomonkeys.live/Jesus10/Jesus10/589308
+#EXTINF:-1,Directv Sports Peru (OP2)
+http://twomonkeys.live/Jesus10/Jesus10/589309
+#EXTINF:-1,Directv Sports Chile
+http://twomonkeys.live/Jesus10/Jesus10/589311
+#EXTINF:-1,Directv Sports Chile (OP2)
+http://twomonkeys.live/Jesus10/Jesus10/589312
+#EXTINF:-1,Directv Sports Plus
+http://twomonkeys.live/Jesus10/Jesus10/589314
+#EXTINF:-1,Directv Sports Plus (OP2)
+http://twomonkeys.live/Jesus10/Jesus10/589315
+#EXTINF:-1,Directv Sports Argentina
+http://twomonkeys.live/Jesus10/Jesus10/589317
+#EXTINF:-1,Directv Sports Argentina (OP2)
+http://twomonkeys.live/Jesus10/Jesus10/589318
+#EXTINF:-1,Directv Sports 2
+http://twomonkeys.live/Jesus10/Jesus10/589320
+#EXTINF:-1,Directv Sports 2 (OP2)
+http://twomonkeys.live/Jesus10/Jesus10/589321
+#EXTINF:-1,Directv Sports Colombia
+http://twomonkeys.live/Jesus10/Jesus10/589323
+#EXTINF:-1,Directv Sports Colombia (OP2)
+http://twomonkeys.live/Jesus10/Jesus10/589324
+#EXTINF:-1,Directv Sports Ecuador
+http://twomonkeys.live/Jesus10/Jesus10/589326
+#EXTINF:-1,Directv Sports Ecuador (OP2)
+http://twomonkeys.live/Jesus10/Jesus10/589327
+#EXTINF:-1,Directv Sports Uruguay
+http://twomonkeys.live/Jesus10/Jesus10/589329
+#EXTINF:-1,Directv Sports Uruguay (OP2)
+http://twomonkeys.live/Jesus10/Jesus10/589330
+#EXTINF:-1,TUDN
+http://twomonkeys.live/Jesus10/Jesus10/931778
+#EXTINF:-1,TUDN
+http://twomonkeys.live/Jesus10/Jesus10/585933
+#EXTINF:-1,TUDNXTRA 10
+http://twomonkeys.live/Jesus10/Jesus10/585935
+#EXTINF:-1,TUDNXTRA 11
+http://twomonkeys.live/Jesus10/Jesus10/585936
+#EXTINF:-1,TUDN1
+http://twomonkeys.live/Jesus10/Jesus10/586067
+#EXTINF:-1,TUDN2
+http://twomonkeys.live/Jesus10/Jesus10/586068
+#EXTINF:-1,TUDN3
+http://twomonkeys.live/Jesus10/Jesus10/586069
+#EXTINF:-1,TUDN4
+http://twomonkeys.live/Jesus10/Jesus10/586070
+#EXTINF:-1,TUDN5
+http://twomonkeys.live/Jesus10/Jesus10/586071
+#EXTINF:-1,TUDN7
+http://twomonkeys.live/Jesus10/Jesus10/586073
+#EXTINF:-1,TUDN8
+http://twomonkeys.live/Jesus10/Jesus10/586074
+#EXTINF:-1,TUDN9
+http://twomonkeys.live/Jesus10/Jesus10/586075
+#EXTINF:-4, Tigo Sports GT
+https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
+#EXTINF:-0, ESPN 2 HD
+http://45.181.123.194:8000/play/a0ax/index.m3u8
+#EXTINF:-0, ESPN 3 HD
+http://45.181.123.194:8000/play/espn3hd/index.m3u8
+#EXTINF:-0, ESPN 4HD
+http://45.181.123.194:8000/play/a0jw/index.m3u8
+#EXTINF:-0, ESPN 5HD
+http://45.181.123.194:8000/play/a0js/index.m3u8
+#EXTINF:-0, ESPN 7HD
+http://45.181.123.194:8000/play/a0jt/index.m3u8
+#EXTINF:-0, ESPN HD
+http://45.181.123.194:8000/play/a06j/index.m3u8
+#EXTINF:-0, ESPN Premium HD
+http://45.181.123.194:8000/play/a0jr/index.m3u8
+#EXTINF:-1 ,TNT Sports Premium HD 
+http://207.248.3.81:8081/play/a0em
+#EXTINF: 0,TNT SPORT 
+http://190.123.90.146:8000/play/a00j/index.m3u8
+#EXTINF:-1,TNT SPORTS 3 
+http://186.148.195.206:8000/play/a022/index.m3u8
