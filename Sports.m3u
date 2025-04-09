@@ -13,13 +13,13 @@ http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
 http://179.51.136.19:8000/play/a112/index.m3u8
 #EXTINF:0,DSPORTS 3
 http://179.51.136.19:8000/play/a113/index.m3u8
-#EXTINF:0,ESPN
-http://179.51.136.19:8000/play/a1fr/index.m3u8
+#EXTINF:0,ESPN CO
+http://181.205.130.194:4000/play/a08n
 #EXTINF:0,ESPN
 http://179.51.136.19:8000/play/a0zy/index.m3u8
-#EXTINF:0,ESPN  4 HD
+#EXTINF:0,ESPN 4 HD
 http://179.51.136.19:8000/play/a1a5/index.m3u8
-#EXTINF:0,ESPN  4 HD
+#EXTINF:0,ESPN 4 HD
 http://179.51.136.19:8000/play/a15k/index.m3u8
 #EXTINF:0,ESPN 2 HD
 http://179.51.136.19:8000/play/a1e5/index.m3u8
@@ -41,9 +41,9 @@ http://179.51.136.19:8000/play/a1ag/index.m3u8
 http://179.51.136.19:8000/play/a1dt/index.m3u8
 #EXTINF:0,ESPN 5
 http://179.51.136.19:8000/play/a18o/index.m3u8
-#EXTINF:0,ESPN 5  HD
+#EXTINF:0,ESPN 5 HD
 http://179.51.136.19:8000/play/a192/index.m3u8
-#EXTINF:0,ESPN 5  HD
+#EXTINF:0,ESPN 5 HD
 http://179.51.136.19:8000/play/a15h/index.m3u8
 #EXTINF:0,ESPN 5HD
 http://179.51.136.19:8000/play/a1ex/index.m3u8
