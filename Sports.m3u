@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,Sky La Liga
 http://181.78.106.127:9000/play/ca030/index.m3u8
+#EXTINF:-1,LA LIGA
+http://181.78.109.49:8000/play/a06r/index.m3u8
 #EXTINF:-1, TIGO SPORT
 http://80.80.91.195:8000/play/a09k/index.m3u8
 #EXTINF:-1,Claro Sports 1 SD
