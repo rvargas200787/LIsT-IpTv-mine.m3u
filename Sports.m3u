@@ -1,9 +1,17 @@
 #EXTM3U
+#EXTINF:-1,SKY LIGA ALEMANA / TUDN
+http://45.5.117.57:8200/play/a04f/index.m3u8
+#EXTINF:-1,FOX SPORTS (premium)
+http://45.5.117.57:8200/play/a096/index.m3u8
+#EXTINF:-1,TIGO SPORTS GT
+http://45.5.117.57:8200/play/a04i/index.m3u8
 #EXTINF:-1,Spain 
 http://45.5.117.182:8000/play/jnl0/index.m3u8
+#EXTINF:-1,SKY SPORTS GT
+http://45.5.117.57:8200/play/a04e/index.m3u8
 #EXTINF:-1,Sky La Liga
 http://181.78.106.127:9000/play/ca030/index.m3u8
-#EXTINF:-1, TIGO SPORT
+#EXTINF:-1,TIGO SPORT
 http://80.80.91.195:8000/play/a09k/index.m3u8
 #EXTINF:-1,Claro Sports 1 SD
 http://179.51.136.19:8000/play/a18m/index.m3u8
@@ -39,6 +47,12 @@ http://38.7.101.90:8000/play/a0k5/index.m3u8
 http://38.7.101.90:8000/play/a050/index.m3u8
 #EXTINF:-1,ESPN Premium HD
 http://38.7.101.90:8000/play/a197/index.m3u8
+#EXTINF:-1,TUDN
+http://45.5.117.57:8200/play/a09c/index.m3u8
+#EXTINF:-1,ENLACE JUVENIL
+http://45.5.117.57:8200/play/a0an/index.m3u8
+#EXTINF:-1,DISTRITO COMEDIA
+http://45.5.117.57:8200/play/a05o/index.m3u8
 #EXTINF:-1,Cinecanal HD
 http://38.7.101.90:8000/play/CinecanalHD/index.m3u8
 #EXTINF:-1,Cinemax
