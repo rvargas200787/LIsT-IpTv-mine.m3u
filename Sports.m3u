@@ -49,6 +49,10 @@ http://38.7.101.90:8000/play/a050/index.m3u8
 http://38.7.101.90:8000/play/a197/index.m3u8
 #EXTINF:-1,TUDN
 http://45.5.117.57:8200/play/a09c/index.m3u8
+#EXTINF:-1,Dios Te Ve
+https://s.emisoras.tv:8081/diostevetv/index.m3u8
+#EXTINF:-1,Dios Te Ve Kids
+https://s.emisoras.tv:8081/diostevekids/index.m3u8
 #EXTINF:-1,ENLACE JUVENIL
 http://45.5.117.57:8200/play/a0an/index.m3u8
 #EXTINF:-1,DISTRITO COMEDIA
