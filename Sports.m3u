@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,SKY LIGA ALEMANA / TUDN
 http://45.5.117.57:8200/play/a04f/index.m3u8
+#EXTINF:-1,Movistar Liga de Campeones
+http://181.198.67.62:8000/play/a1bk
 #EXTINF:-1,FOX SPORTS (premium)
 http://45.5.117.57:8200/play/a096/index.m3u8
 #EXTINF:-1,TIGO SPORTS GT
