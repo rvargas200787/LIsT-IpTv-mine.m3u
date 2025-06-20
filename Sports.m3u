@@ -18,7 +18,7 @@ http://45.5.117.57:8200/play/a04i/index.m3u8
 #EXTINF:-1,Spain 
 http://181.78.106.127:9000/play/ca027/index.m3u8
 #EXTINF:-1,SKY SPORTS GT
-http://45.5.117.57:8200/play/a04e/index.m3u8
+http://1play.cool:25461/2722198680/208f9a5bb6/79416
 #EXTINF:-1,Sky La Liga
 http://45.228.234.173:9999/play/a00a/index.m3u8
 #EXTINF:-1,TIGO SPORT
@@ -28,15 +28,15 @@ http://179.51.136.19:8000/play/a18m/index.m3u8
 #EXTINF:-1,Claro Sports 2 SD
 http://179.51.136.19:8000/play/a16q/index.m3u8
 #EXTINF:-1,TyC Sports
-http://38.7.101.90:8000/play/a18x/index.m3u8
+http://45.228.234.173:9999/play/a082/index.m3u8
 #EXTINF:-1,DSPORTS
 http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
 #EXTINF:-1,DSPORTS 2
 http://179.51.136.19:8000/play/a112/index.m3u8
-#EXTINF:-1,DSPORTS 3
-http://179.51.136.19:8000/play/a113/index.m3u8
-#EXTINF:-1,ESPN CO
-http://181.205.130.194:4000/play/a08n
+#EXTINF:-1,DSPORTS +
+http://38.211.242.128:8001/play/a05h/index.m3u8
+#EXTINF:-1,DAZN 
+http://1play.cool:25461/2722198680/208f9a5bb6/62755
 #EXTINF:-1,ESPN CO 2
 http://170.83.240.134:8000/play/a023
 #EXTINF:-1,ESPN
