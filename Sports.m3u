@@ -1,127 +1,115 @@
 #EXTM3U
 #EXTINF:-1,SKY LIGA ALEMANA / TUDN
-http://45.228.234.173:9999/play/a00e/index.m3u8
-#EXTINF:-1,Movistar Liga
-http://200.115.120.1:8000/play/ca124/index.m3u8
-#EXTINF:-1,FOX SPORTS (premium)
-http://45.5.117.57:8200/play/a096/index.m3u8
-#EXTINF:-1,Fox Sports 1
-http://170.83.240.134:8000/play/a01h
-#EXTINF:-1,Fox Sports 2
-http://170.83.240.134:8000/play/a013
-#EXTINF:-1,Fox Sports 3
-http://170.83.240.134:8000/play/a014
-#EXTINF:-1,FOX SPORTS 2 HD
-http://200.115.120.1:8000/play/ca126/index.m3u8
+http://45.5.117.57:8200/play/a04f/index.m3u8
+#EXTINF:-1,DAZN LA LIGA
+http://tv.nousiptv.com:8080/Chifer90/Coche90/1205959
+#EXTINF:-1,Movistar Liga de Campeones
+http://tv.nousiptv.com:8080/Chifer90/Coche90/16717
+#EXTINF:-1,FOX SPORTS
+http://tv.nousiptv.com:8080/Chifer90/Coche90/17418
 #EXTINF:-1,TIGO SPORTS GT
-http://45.5.117.57:8200/play/a04i/index.m3u8
+http://tv.nousiptv.com:8080/Chifer90/Coche90/18594
 #EXTINF:-1,Spain 
-http://181.78.106.127:9000/play/ca027/index.m3u8
+http://tv.nousiptv.com:8080/Chifer90/Coche90/1156047
 #EXTINF:-1,SKY SPORTS GT
-http://1play.cool:25461/2722198680/208f9a5bb6/79416
+http://tv.nousiptv.com:8080/Chifer90/Coche90/1205960
 #EXTINF:-1,Sky La Liga
-http://45.228.234.173:9999/play/a00a/index.m3u8
+http://tv.nousiptv.com:8080/Chifer90/Coche90/1229625
 #EXTINF:-1,TIGO SPORT
-http://80.80.91.195:8000/play/a09k/index.m3u8
-#EXTINF:-1,Claro Sports 1 SD
-http://179.51.136.19:8000/play/a18m/index.m3u8
+http://tv.nousiptv.com:8080/Chifer90/Coche90/7435
+#EXTINF:-1,Claro Sports 1
+http://tv.nousiptv.com:8080/Chifer90/Coche90/12011
 #EXTINF:-1,Claro Sports 2 SD
 http://179.51.136.19:8000/play/a16q/index.m3u8
 #EXTINF:-1,TyC Sports
-http://45.228.234.173:9999/play/a082/index.m3u8
+http://tv.nousiptv.com:8080/Chifer90/Coche90/8247
 #EXTINF:-1,DSPORTS
-http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
-#EXTINF:-1,DSPORTS 2
-http://179.51.136.19:8000/play/a112/index.m3u8
-#EXTINF:-1,DSPORTS +
-http://38.211.242.128:8001/play/a05h/index.m3u8
-#EXTINF:-1,DAZN 
-http://1play.cool:25461/2722198680/208f9a5bb6/62755
-#EXTINF:-1,ESPN CO 2
-http://170.83.240.134:8000/play/a023
+http://tv.nousiptv.com:8080/Chifer90/Coche90/23239
+#EXTINF:-1,DSPORTS URUGUAY
+http://tv.nousiptv.com:8080/Chifer90/Coche90/1156003
+#EXTINF:-1,DSPORTS 3
+http://tv.nousiptv.com:8080/Chifer90/Coche90/7863
+#EXTINF:-1,ESPN CO
+http://tv.nousiptv.com:8080/Chifer90/Coche90/1119288
 #EXTINF:-1,ESPN
-http://170.83.240.134:8000/play/a00u
+http://tv.nousiptv.com:8080/Chifer90/Coche90/7784
 #EXTINF:-1,ESPN 2 HD
-http://170.83.240.134:8000/play/a02u
+http://tv.nousiptv.com:8080/Chifer90/Coche90/1159097
 #EXTINF:-1,ESPN 3
-http://170.83.240.134:8000/play/a00h
+http://tv.nousiptv.com:8080/Chifer90/Coche90/1163328
 #EXTINF:-1,ESPN 3 HD
-http://190.238.172.153:8000/play/a0gt
+http://tv.nousiptv.com:8080/Chifer90/Coche90/1155890
 #EXTINF:-1,ESPN 4HD
-http://190.238.172.153:8000/play/a0gw
+http://tv.nousiptv.com:8080/Chifer90/Coche90/1159099
 #EXTINF:-1,ESPN 5HD
-http://190.238.172.153:8000/play/a0gs
+http://tv.nousiptv.com:8080/Chifer90/Coche90/1205951
 #EXTINF:-1,ESPN 6HD
-http://190.238.172.153:8000/play/a0ej
+http://tv.nousiptv.com:8080/Chifer90/Coche90/1197851
 #EXTINF:-1,ESPN 7HD
-http://190.238.172.153:8000/play/a09w
+http://tv.nousiptv.com:8080/Chifer90/Coche90/42456
 #EXTINF:-1,ESPN HD
-http://38.7.101.90:8000/play/a050/index.m3u8
+http://tv.nousiptv.com:8080/Chifer90/Coche90/43638
 #EXTINF:-1,ESPN Premium HD
-http://190.238.172.153:8000/play/a0ei
+http://tv.nousiptv.com:8080/Chifer90/Coche90/1155891
 #EXTINF:-1,TUDN
-http://45.228.234.173:9999/play/a069/index.m3u8
-#EXTINF:-1,TUDN MX
-http://200.115.120.1:8000/play/ca039/index.m3u8
-#EXTINF:-1,TNT Sports Premiun HD
-http://190.238.172.153:8000/play/a0ek
+http://tv.nousiptv.com:8080/Chifer90/Coche90/1156010
+#EXTINF:-1,TUDN DEPORTES HD
+http://tv.nousiptv.com:8080/Chifer90/Coche90/1156010
 #EXTINF:-1,Dios Te Ve
 https://s.emisoras.tv:8081/diostevetv/index.m3u8
 #EXTINF:-1,Dios Te Ve Kids
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
-#EXTINF:-1,ENLACE JUVENIL
-http://45.5.117.57:8200/play/a0an/index.m3u8
-#EXTINF:-1,Canal 11 - GUA
-http://45.186.106.207:8000/play/a00w/index.m3u8
-#EXTINF:-1,Canal 13-GUA
-http://45.186.106.207:8000/play/a00v/index.m3u8
-#EXTINF:-1,Canal 3 - GUA
-http://45.186.106.207:8000/play/a01h/index.m3u8
-#EXTINF:-1,Canal 7 - GUA
-http://45.186.106.207:8000/play/a01g/index.m3u8
-#EXTINF:-1,TN23 ONLINE
-http://45.186.106.207:8000/play/a09g/index.m3u8
+#EXTINF:-1,ENLACE
+http://tv.nousiptv.com:8080/Chifer90/Coche90/51353
 #EXTINF:-1,DISTRITO COMEDIA
-http://45.5.117.57:8200/play/a05o/index.m3u8
+http://tv.nousiptv.com:8080/Chifer90/Coche90/4040
 #EXTINF:-1,Cinecanal HD
-http://170.83.240.134:8000/play/a030
+http://tv.nousiptv.com:8080/Chifer90/Coche90/1155785
 #EXTINF:-1,Cinemax
-http://170.83.240.134:8000/play/a002
+http://tv.nousiptv.com:8080/Chifer90/Coche90/1068350
 #EXTINF:-1,FX
-http://38.7.101.90:8000/play/a13j/index.m3u8
+http://tv.nousiptv.com:8080/Chifer90/Coche90/1155789
+#EXTINF:-1,FX FHD
+http://tv.nousiptv.com:8080/Chifer90/Coche90/4044
 #EXTINF:-1,HBO
-http://190.238.172.153:8000/play/a09m
-#EXTINF:-1,HBO 2
-http://170.83.240.134:8000/play/a02o
+http://tv.nousiptv.com:8080/Chifer90/Coche90/8210
 #EXTINF:-1,HBO Family HD
-http://170.83.240.134:8000/play/a02r
+http://tv.nousiptv.com:8080/Chifer90/Coche90/8216
+#EXTINF:-1,HBO HD
+http://38.7.101.90:8000/play/a0c0/index.m3u8
 #EXTINF:-1,HBO MUNDI
 http://38.7.101.90:8000/play/a191/index.m3u8
 #EXTINF:-1,HBO POP HD
-http://190.238.172.153:8000/play/a0el
+http://38.7.101.90:8000/play/a0uo/index.m3u8
 #EXTINF:-1,HBO Plus
-http://170.83.240.134:8000/play/a02p
+http://38.7.101.90:8000/play/a0wa/index.m3u8
 #EXTINF:-1,HBO XTREME HD
-http://170.83.240.134:8000/play/a02q
+http://38.7.101.90:8000/play/a1c7/index.m3u8
 #EXTINF:-1,Nick Jr
-http://170.83.240.134:8000/play/a00e
+http://tv.nousiptv.com:8080/Chifer90/Coche90/4194
 #EXTINF:-1,Paramount HD
-http://38.7.101.90:8000/play/a0v7/index.m3u8
+http://tv.nousiptv.com:8080/Chifer90/Coche90/1230272
 #EXTINF:-1,STAR CHANNEL HD
-http://190.238.172.153:8000/play/a0f8
+http://tv.nousiptv.com:8080/Chifer90/Coche90/4022
+#EXTINF:-1,STAR Channel
+http://tv.nousiptv.com:8080/Chifer90/Coche90/4121
 #EXTINF:-1,Sony
-http://190.238.172.153:8000/play/a0gx
+http://tv.nousiptv.com:8080/Chifer90/Coche90/1155800
+#EXTINF:-1,Sony MOVIES
+http://tv.nousiptv.com:8080/Chifer90/Coche90/1143816
 #EXTINF:-1,Space HD
-http://170.83.240.134:8000/play/a005
+http://tv.nousiptv.com:8080/Chifer90/Coche90/4099
 #EXTINF:-1,TCM
-http://170.83.240.134:8000/play/a038
+http://tv.nousiptv.com:8080/Chifer90/Coche90/1155806
 #EXTINF:-1,TLC
-http://170.83.240.134:8000/play/a038
+http://tv.nousiptv.com:8080/Chifer90/Coche90/29352
 #EXTINF:-1,TNT
-http://170.83.240.134:8000/play/a03b
+http://tv.nousiptv.com:8080/Chifer90/Coche90/4010
+#EXTINF:-1,TNT HD
+http://tv.nousiptv.com:8080/Chifer90/Coche90/4103
 #EXTINF:-1,Telemundo
-http://38.7.101.90:8000/play/a15m/index.m3u8
+http://tv.nousiptv.com:8080/Chifer90/Coche90/43189
 #EXTINF:-1,Warner Channel HD
-http://170.83.240.134:8000/play/a00q
+http://tv.nousiptv.com:8080/Chifer90/Coche90/1230273
 #EXTINF:-1,Universal Comedy SD
-http://170.83.240.134:8000/play/a0kq
+http://tv.nousiptv.com:8080/Chifer90/Coche90/1156005
