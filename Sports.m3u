@@ -1,14 +1,18 @@
 #EXTM3U
 #EXTINF:-1,SKY LIGA ALEMANA / TUDN
-http://tv.proyectox.vip:8080/live/ECUIO00001/IO00001TEMP/9599.m3u8
+http://190.92.10.66:4000/play/a006/index.m3u8
 #EXTINF:-1,DAZN
 http://matrivagoweb.xyz:8080/mauri000/03031993/67369
+#EXTINF:-1,TyC Sports
+http://45.171.64.30:8800/play/a08m
 #EXTINF:-1,Movistar Liga de Campeones
-http://m3u.tvcluboficial.com/free/free_Ivan_6ND/DdM/1100.m3u8
+https://normielista.stream/sky_sports_mx_1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,FOX SPORTS
 http://201.217.246.48:9000/play/a085/index.m3u8
 #EXTINF:-1,Spain 
-http://tv.proyectox.vip:8080/live/ECUIO00001/IO00001TEMP/9599.m3u8
+http://45.171.64.30:8800/play/a07h
+#EXTINF:-1,SKY LaLiga Guate
+http://190.92.10.66:4000/play/a001/index.m3u8
 #EXTINF:-1,SKY SPORTS GT
 http://45.171.64.30:2000/play/a08m/index.m3u8
 #EXTINF:-1,VIX-La Liga
@@ -22,7 +26,7 @@ http://179.51.136.19:8000/play/a16q/index.m3u8
 #EXTINF:-1,TyC Sports
 http://201.217.246.48:9000/play/a06x/index.m3u8
 #EXTINF:-1,DSPORTS AR
-http://201.217.246.48:9000/play/a0dm/index.m3u8
+http://190.117.20.39:8000/play/a08d/index.m3u8
 #EXTINF:-1,DSPORTS 2
 http://tv.proyectox.vip:8080/live/ECUIO00001/IO00001TEMP/9562.m3u8
 #EXTINF:-1,DSPORTS +
@@ -30,23 +34,23 @@ http://tv.proyectox.vip:8080/live/ECUIO00001/IO00001TEMP/9557.m3u8
 #EXTINF:-1,ESPN CO
 http://181.205.130.194:4000/play/a08n
 #EXTINF:-1,ESPN
-http://201.217.246.48:9000/play/a099/index.m3u8
+http://181.119.93.57:8000/play/a0rb/index.m3u8
 #EXTINF:-1,ESPN 2 HD
-http://201.217.246.48:9000/play/a098/index.m3u8
+http://181.119.93.57:8000/play/a0c7/index.m3u8
 #EXTINF:-1,ESPN 3 HD
-http://201.217.246.48:9000/play/a09a/index.m3u8
+http://181.119.93.57:8000/play/a0sz/index.m3u8
 #EXTINF:-1,ESPN 4HD
-http://201.217.246.48:9000/play/a084/index.m3u8
+http://181.119.93.57:8000/play/a0s3/index.m3u8
 #EXTINF:-1,ESPN 5 HD
-http://38.7.101.90:8000/play/a1uw/index.m3u8
+http://181.119.93.57:8000/play/a0c5/index.m3u8
 #EXTINF:-1,ESPN 6 HD
-http://181.205.130.194:4000/play/a0eh
+http://181.119.93.57:8000/play/a0ci/index.m3u8
 #EXTINF:-1,ESPN 7 HD
-http://38.7.101.90:8000/play/a1zj/index.m3u8
+http://181.119.93.57:8000/play/a0rv/index.m3u8
 #EXTINF:-1,ESPN Premium HD
-http://201.217.246.48:9000/play/a086/index.m3u8
+http://181.119.93.57:8000/play/a0oa/index.m3u8
 #EXTINF:-1,TUDN
-http://45.171.64.30:2000/play/a08j/index.m3u8
+http://45.171.64.30:8800/play/a07e
 #EXTINF:-1,Dios Te Ve
 https://s.emisoras.tv:8081/diostevetv/index.m3u8
 #EXTINF:-1,Dios Te Ve Kids
@@ -56,15 +60,15 @@ http://201.217.246.48:9000/play/a0dt/index.m3u8
 #EXTINF:-1,DISTRITO COMEDIA
 http://45.171.64.30:2000/play/a08t/index.m3u8
 #EXTINF:-1,Cinecanal HD
-http://201.217.246.48:9000/play/a089/index.m3u8
+http://181.119.93.57:8000/play/a0c4/index.m3u8
 #EXTINF:-1,Cinemax
 http://201.217.246.48:9000/play/a08r/index.m3u8
 #EXTINF:-1,FX
-http://201.217.246.48:9000/play/a070/index.m3u8
+http://181.119.93.57:8000/play/a0ca/index.m3u8
 #EXTINF:-1,HBO
-http://201.217.246.48:9000/play/a07m/index.m3u8
+http://181.119.93.57:8000/play/a0c6/index.m3u8
 #EXTINF:-1,HBO Family HD
-http://201.217.246.48:9000/play/a07p/index.m3u8
+http://181.119.93.57:8000/play/a0ob/index.m3u8
 #EXTINF:-1,HBO SIGNATURE
 http://201.217.246.48:9000/play/a06h/index.m3u8
 #EXTINF:-1,HBO Plus
@@ -72,27 +76,34 @@ http://201.217.246.48:9000/play/a07n/index.m3u8
 #EXTINF:-1,HBO XTREME HD
 http://201.217.246.48:9000/play/a06g/index.m3u8
 #EXTINF:-1,Nick Jr
-http://201.217.246.48:9000/play/a07s/index.m3u8
+http://190.151.80.242:9990/play/a0lu/index.m3u8
 #EXTINF:-1,STAR CHANNEL HD
-http://201.217.246.48:9000/play/a087/index.m3u8
+http://181.119.93.57:8000/play/a0c1/index.m3u8
 #EXTINF:-1,Sony
-http://201.217.246.48:9000/play/a09c/index.m3u8
+http://181.119.93.57:8000/play/a0rw/index.m3u8
 #EXTINF:-1,Paramount
 http://201.217.246.48:9000/play/a073/index.m3u8
 #EXTINF:-1,Space HD
-http://201.217.246.48:9000/play/a071/index.m3u8
+http://181.119.93.57:8000/play/a0c3/index.m3u8
 #EXTINF:-1,TCM
 http://201.217.246.48:9000/play/a065/index.m3u8
 #EXTINF:-1,TNT HD
-http://201.217.246.48:9000/play/a065/index.m3u8
+http://181.119.93.57:8000/play/a0rt/index.m3u8
 #EXTINF:-1,Telemundo
 http://201.217.246.48:9000/play/a0do/index.m3u8
 #EXTINF:-1,Warner Channel HD
-http://201.217.246.48:9000/play/a09d/index.m3u8
+http://181.119.93.57:8000/play/a0rx/index.m3u8
 #EXTINF:-1,Universal SD
-http://201.217.246.48:9000/play/a0dv/index.m3u8
+http://181.119.93.57:8000/play/a0sr/index.m3u8
 #EXTINF:-1,TN23
-http://45.171.64.30:2000/play/a08g/index.m3u8
-#EXTINF:-1,Canal 13 GT
-http://45.171.64.30:2000/play/a08p/index.m3u8
-
+http://45.171.64.30:8800/play/a07f
+#EXTINF:-1,Canal 11 - GUA
+http://45.171.64.30:8800/play/a01d
+#EXTINF:-1,Canal 13-GUA
+http://45.171.64.30:8800/play/a01c
+#EXTINF:-1,Canal 27 GT
+http://45.171.64.30:8800/play/a07n
+#EXTINF:-1,Canal 7 GT
+http://45.171.64.30:8800/play/a07j
+#EXTINF:-1,TNT Sports Premiun HD
+http://181.119.93.57:8000/play/a0k1/index.m3u8
