@@ -1,109 +1,90 @@
 #EXTM3U
-#EXTINF:-1,SKY LIGA ALEMANA / TUDN
-http://190.92.10.66:4000/play/a006/index.m3u8
-#EXTINF:-1,DAZN
-http://matrivagoweb.xyz:8080/mauri000/03031993/67369
-#EXTINF:-1,TyC Sports
-http://45.171.64.30:8800/play/a08m
-#EXTINF:-1,Movistar Liga de Campeones
-https://normielista.stream/sky_sports_mx_1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,FOX SPORTS
-http://201.217.246.48:9000/play/a085/index.m3u8
-#EXTINF:-1,Spain 
-http://45.171.64.30:8800/play/a07h
-#EXTINF:-1,SKY LaLiga Guate
-http://190.92.10.66:4000/play/a001/index.m3u8
-#EXTINF:-1,SKY SPORTS GT
-http://45.171.64.30:2000/play/a08m/index.m3u8
-#EXTINF:-1,VIX-La Liga
-http://181.78.98.214:8000/play/a017/index.m3u8
-#EXTINF:-1,TIGO SPORT
-http://45.171.64.30:2000/play/a08e/index.m3u8
-#EXTINF:-1,Claro Sports GT
-http://45.171.64.30:2000/play/a053/index.m3u8
-#EXTINF:-1,Claro Sports 2 SD
-http://179.51.136.19:8000/play/a16q/index.m3u8
-#EXTINF:-1,TyC Sports
-http://201.217.246.48:9000/play/a06x/index.m3u8
-#EXTINF:-1,DSPORTS AR
-http://190.117.20.39:8000/play/a08d/index.m3u8
-#EXTINF:-1,DSPORTS 2
-http://tv.proyectox.vip:8080/live/ECUIO00001/IO00001TEMP/9562.m3u8
-#EXTINF:-1,DSPORTS +
-http://tv.proyectox.vip:8080/live/ECUIO00001/IO00001TEMP/9557.m3u8
-#EXTINF:-1,ESPN CO
-http://181.205.130.194:4000/play/a08n
-#EXTINF:-1,ESPN
-http://181.119.93.57:8000/play/a0rb/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://181.119.93.57:8000/play/a0c7/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://181.119.93.57:8000/play/a0sz/index.m3u8
-#EXTINF:-1,ESPN 4HD
-http://181.119.93.57:8000/play/a0s3/index.m3u8
-#EXTINF:-1,ESPN 5 HD
-http://181.119.93.57:8000/play/a0c5/index.m3u8
-#EXTINF:-1,ESPN 6 HD
-http://181.119.93.57:8000/play/a0ci/index.m3u8
-#EXTINF:-1,ESPN 7 HD
-http://181.119.93.57:8000/play/a0rv/index.m3u8
-#EXTINF:-1,ESPN Premium HD
-http://181.119.93.57:8000/play/a0oa/index.m3u8
-#EXTINF:-1,TUDN
-http://45.171.64.30:8800/play/a07e
-#EXTINF:-1,Dios Te Ve
-https://s.emisoras.tv:8081/diostevetv/index.m3u8
-#EXTINF:-1,Dios Te Ve Kids
-https://s.emisoras.tv:8081/diostevekids/index.m3u8
-#EXTINF:-1,ENLACE
-http://201.217.246.48:9000/play/a0dt/index.m3u8
-#EXTINF:-1,DISTRITO COMEDIA
-http://45.171.64.30:2000/play/a08t/index.m3u8
-#EXTINF:-1,Cinecanal HD
-http://181.119.93.57:8000/play/a0c4/index.m3u8
-#EXTINF:-1,Cinemax
-http://201.217.246.48:9000/play/a08r/index.m3u8
-#EXTINF:-1,FX
-http://181.119.93.57:8000/play/a0ca/index.m3u8
-#EXTINF:-1,HBO
-http://181.119.93.57:8000/play/a0c6/index.m3u8
-#EXTINF:-1,HBO Family HD
-http://181.119.93.57:8000/play/a0ob/index.m3u8
-#EXTINF:-1,HBO SIGNATURE
-http://201.217.246.48:9000/play/a06h/index.m3u8
-#EXTINF:-1,HBO Plus
-http://201.217.246.48:9000/play/a07n/index.m3u8
-#EXTINF:-1,HBO XTREME HD
-http://201.217.246.48:9000/play/a06g/index.m3u8
-#EXTINF:-1,Nick Jr
-http://190.151.80.242:9990/play/a0lu/index.m3u8
-#EXTINF:-1,STAR CHANNEL HD
-http://181.119.93.57:8000/play/a0c1/index.m3u8
-#EXTINF:-1,Sony
-http://181.119.93.57:8000/play/a0rw/index.m3u8
-#EXTINF:-1,Paramount
-http://201.217.246.48:9000/play/a073/index.m3u8
-#EXTINF:-1,Space HD
-http://181.119.93.57:8000/play/a0c3/index.m3u8
-#EXTINF:-1,TCM
-http://201.217.246.48:9000/play/a065/index.m3u8
-#EXTINF:-1,TNT HD
-http://181.119.93.57:8000/play/a0rt/index.m3u8
-#EXTINF:-1,Telemundo
-http://201.217.246.48:9000/play/a0do/index.m3u8
-#EXTINF:-1,Warner Channel HD
-http://181.119.93.57:8000/play/a0rx/index.m3u8
-#EXTINF:-1,Universal SD
-http://181.119.93.57:8000/play/a0sr/index.m3u8
-#EXTINF:-1,TN23
-http://45.171.64.30:8800/play/a07f
-#EXTINF:-1,Canal 11 - GUA
-http://45.171.64.30:8800/play/a01d
-#EXTINF:-1,Canal 13-GUA
-http://45.171.64.30:8800/play/a01c
-#EXTINF:-1,Canal 27 GT
-http://45.171.64.30:8800/play/a07n
-#EXTINF:-1,Canal 7 GT
-http://45.171.64.30:8800/play/a07j
-#EXTINF:-1,TNT Sports Premiun HD
-http://181.119.93.57:8000/play/a0k1/index.m3u8
+#EXTM3U url="https://r4instreams.alwaysdata.net/MundialLista.m3u"
+#EXTINF:-1 group-title="Mundial Lista WC 2026", Telefe (Argentina)
+http://181.209.91.106:2222/Live/120e4c580311c6685df90ec4dca2c0b1/telefe.playlist.m3u8
+#EXTINF:-1 group-title="Mundial Lista WC 2026", Telefe Cordoba (Argentina)
+https://cdn.pontiscloud.com/output/Canal8/playlist.m3u8
+#EXTINF:-1 group-title="Mundial Lista WC 2026", Telefe Rosario (Argentina)
+https://cdn.pontiscloud.com/output/ARR2/TelefeRosarioH/playlist.m3u8
+#EXTINF:-1 group-title="Mundial Lista WC 2026", TyC Sports (Argentina)
+http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-tycsport.playlist.m3u8
+#EXTINF:-1 group-title="Mundial Lista WC 2026", Unitel HD (Bolivia) | GEO
+https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
+#EXTINF:-1 group-title="Mundial Lista WC 2026", SBT (Brazil) | GEO
+https://dai.google.com/linear/hls/event/Gmgmn9icSMOL6TAePageWQ/master.m3u8
+#EXTINF:-1 group-title="Mundial Lista WC 2026", Chilevisión (Chile) | Bitred OPT-1
+https://iptv.bitred.cl/chv/index.m3u8
+#EXTINF:-1 group-title="Mundial Lista WC 2026", Chilevisión (Chile) | InterSur OPT-2
+https://iptv2.intersurtv.cl/CHILEVISION/index.m3u8
+#EXTINF:-1 group-title="Mundial Lista WC 2026", Chilevisión (Chile) OPT-3
+http://38.97.240.11:8000/play/a0fe/index.m3u8
+#EXTINF:-1 group-title="Mundial Lista WC 2026", Chilevisión (Chile) OPT-4
+http://190.102.247.126:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="Mundial Lista WC 2026", Chilevisión (Chile) OPT-5
+http://181.79.87.132:8000/play/a0cy/index.m3u8
+#EXTINF:-1 group-title="Mundial Lista WC 2026", Caracol (Colombia) OPT-1
+http://181.78.168.37:8000/play/a0dn
+#EXTINF:-1 group-title="Mundial Lista WC 2026", Caracol (Colombia) OPT-2
+http://181.78.168.37:8000/play/a0d3
+#EXTINF:-1 group-title="Mundial Lista WC 2026", Caracol (Colombia) OPT-3
+http://45.70.168.162:8466/play/a00o/index.m3u8
+#EXTINF:-1 group-title="Mundial Lista WC 2026", RCN (Colombia) OPT-1
+http://181.78.168.37:8000/play/a0d2
+#EXTINF:-1 group-title="Mundial Lista WC 2026", RCN (Colombia) OPT-2
+http://45.70.168.162:8466/play/a00p/index.m3u8
+#EXTINF:-1 group-title="Mundial Lista WC 2026", Win Sports (Colombia)
+http://45.70.168.162:8466/play/a013/index.m3u8
+#EXTINF:-1 group-title="Mundial Lista WC 2026", FOX (Costa Rica)
+http://201.207.54.159:8000/play/a0as/index.m3u8
+#EXTINF:-1 group-title="Mundial Lista WC 2026", Teleamazonas (Ecuador)
+http://181.79.87.132:8000/play/a0bw/index.m3u8
+#EXTINF:-1 group-title="Mundial Lista WC 2026", Canal 4 (El Salvador)
+http://132.255.210.69:9000/play/a033/index.m3u8
+#EXTINF:-1 group-title="Mundial Lista WC 2026", FOX (El Salvador)
+http://201.207.54.159:8000/play/a0av/index.m3u8
+#EXTINF:-1 group-title="Mundial Lista WC 2026", Canal 7 (Guatemala) OPT-1
+http://201.207.54.159:8000/play/a04i/index.m3u8
+#EXTINF:-1 group-title="Mundial Lista WC 2026", Canal 7 (Guatemala) OPT-2
+http://132.255.210.69:9000/play/a031/index.m3u8
+#EXTINF:-1 group-title="Mundial Lista WC 2026", Canal 11 TeleOnce (Guatemala) OPT-1
+http://201.207.54.159:8000/play/a03c/index.m3u8
+#EXTINF:-1 group-title="Mundial Lista WC 2026", Canal 11 TeleOnce (Guatemala) OPT-2
+http://132.255.210.69:9000/play/a022/index.m3u8
+#EXTINF:-1 group-title="Mundial Lista WC 2026", FOX (Guatemala)
+http://201.207.54.159:8000/play/a0au/index.m3u8
+#EXTINF:-1 group-title="Mundial Lista WC 2026", FOX (Honduras)
+http://201.207.54.159:8000/play/a0ar/index.m3u8
+#EXTINF:-1 group-title="Mundial Lista WC 2026", Fuji TV (Primehome)
+https://naori-test.netgenx.site/pxx.php?shk_cid=gd05
+#EXTINF:-1 group-title="Mundial Lista WC 2026", NHK G HD (Primehome)
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd01
+#EXTINF:-1 group-title="Mundial Lista WC 2026", NHK BSP4K (Primehome)
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs01
+#EXTINF:-1 group-title="Mundial Lista WC 2026", NTV HD (Primehome)
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd03
+#EXTINF:-1 group-title="Mundial Lista WC 2026", Azteca 7 (México) OPT-1
+http://45.171.64.30:2000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="Mundial Lista WC 2026", Azteca 7 (México) OPT-2
+http://38.194.226.190:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="Mundial Lista WC 2026", Azteca Deportes Network (México) OPT-1
+http://38.194.226.190:8000/play/a02r/index.m3u8
+#EXTINF:-1 group-title="Mundial Lista WC 2026", Azteca Deportes Network (México) OPT-2
+http://132.255.210.69:9000/play/a018/index.m3u8
+#EXTINF:-1 group-title="Mundial Lista WC 2026", Canal 5 (México) OPT-1
+http://45.171.64.30:2000/play/a038/index.m3u8
+#EXTINF:-1 group-title="Mundial Lista WC 2026", Canal 5 (México) OPT-2
+http://38.194.226.190:8000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="Mundial Lista WC 2026", Canal 5 (México) OPT-3
+http://132.255.210.69:9000/play/a06c/index.m3u8
+#EXTINF:-1 group-title="Mundial Lista WC 2026", FOX (México)
+http://38.194.226.190:8000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="Mundial Lista WC 2026", Telemundo (USA)
+http://132.255.210.69:9000/play/a06i/index.m3u8
+#EXTINF:-1 group-title="Mundial Lista WC 2026", Popu TV (Paraguay)
+http://181.79.87.132:8000/play/a0ec/index.m3u8
+#EXTINF:-1 group-title="Mundial Lista WC 2026", Telemundo (Puerto Rico)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 group-title="Mundial Lista WC 2026", ESPN Mundial | Disney+
+http://148.222.230.144:8000/play/a0f0/index.m3u8
+#EXTINF:-1 group-title="Mundial Lista WC 2026", Dsports 2
+https://tinyurl.com/35hxmhya
